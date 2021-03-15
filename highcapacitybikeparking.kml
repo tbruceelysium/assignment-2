@@ -1,0 +1,2975 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="highcapacitybikeparking" id="highcapacitybikeparking">
+	<SimpleField name="FIELD_1" type="float"></SimpleField>
+	<SimpleField name="FIELD_2" type="float"></SimpleField>
+	<SimpleField name="FIELD_3" type="string"></SimpleField>
+	<SimpleField name="FIELD_4" type="string"></SimpleField>
+	<SimpleField name="FIELD_5" type="string"></SimpleField>
+	<SimpleField name="FIELD_6" type="string"></SimpleField>
+	<SimpleField name="FIELD_7" type="string"></SimpleField>
+	<SimpleField name="FIELD_8" type="string"></SimpleField>
+	<SimpleField name="FIELD_9" type="string"></SimpleField>
+	<SimpleField name="FIELD_10" type="string"></SimpleField>
+	<SimpleField name="FIELD_11" type="float"></SimpleField>
+	<SimpleField name="FIELD_12" type="float"></SimpleField>
+	<SimpleField name="FIELD_13" type="float"></SimpleField>
+	<SimpleField name="FIELD_14" type="string"></SimpleField>
+	<SimpleField name="FIELD_15" type="float"></SimpleField>
+	<SimpleField name="FIELD_16" type="float"></SimpleField>
+	<SimpleField name="FIELD_17" type="float"></SimpleField>
+	<SimpleField name="FIELD_18" type="float"></SimpleField>
+	<SimpleField name="FIELD_19" type="float"></SimpleField>
+	<SimpleField name="FIELD_20" type="float"></SimpleField>
+	<SimpleField name="FIELD_21" type="float"></SimpleField>
+	<SimpleField name="FIELD_22" type="float"></SimpleField>
+	<SimpleField name="FIELD_23" type="string"></SimpleField>
+	<SimpleField name="FIELD_24" type="string"></SimpleField>
+	<SimpleField name="FIELD_25" type="float"></SimpleField>
+	<SimpleField name="FIELD_26" type="float"></SimpleField>
+	<SimpleField name="FIELD_27" type="float"></SimpleField>
+	<SimpleField name="FIELD_28" type="string"></SimpleField>
+	<SimpleField name="FIELD_29" type="float"></SimpleField>
+	<SimpleField name="FIELD_30" type="float"></SimpleField>
+</Schema>
+<Folder><name>highcapacitybikeparking</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1756</SimpleData>
+		<SimpleData name="FIELD_2">7641979</SimpleData>
+		<SimpleData name="FIELD_3">21</SimpleData>
+		<SimpleData name="FIELD_4">Gerrard St E</SimpleData>
+		<SimpleData name="FIELD_5">21 Gerrard St E</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">7641994</SimpleData>
+		<SimpleData name="FIELD_13">21</SimpleData>
+		<SimpleData name="FIELD_17">3495</SimpleData>
+		<SimpleData name="FIELD_22">39</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Gerrard St E</SimpleData>
+		<SimpleData name="FIELD_25">16</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3810999113837,43.6591625171396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1757</SimpleData>
+		<SimpleData name="FIELD_2">13991178</SimpleData>
+		<SimpleData name="FIELD_3">213</SimpleData>
+		<SimpleData name="FIELD_4">Delaware Ave</SimpleData>
+		<SimpleData name="FIELD_5">213 Delaware Ave</SimpleData>
+		<SimpleData name="FIELD_6">M6H 2T4</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">20033433</SimpleData>
+		<SimpleData name="FIELD_13">213</SimpleData>
+		<SimpleData name="FIELD_17">3283</SimpleData>
+		<SimpleData name="FIELD_22">40</SimpleData>
+		<SimpleData name="FIELD_23">Angled Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Delaware Ave</SimpleData>
+		<SimpleData name="FIELD_25">5</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2014</SimpleData>
+		<SimpleData name="FIELD_30">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4278708182001,43.6620573990966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1758</SimpleData>
+		<SimpleData name="FIELD_2">13991178</SimpleData>
+		<SimpleData name="FIELD_3">213</SimpleData>
+		<SimpleData name="FIELD_4">Delaware Ave</SimpleData>
+		<SimpleData name="FIELD_5">213 Delaware Ave</SimpleData>
+		<SimpleData name="FIELD_6">M6H 2T4</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">20033433</SimpleData>
+		<SimpleData name="FIELD_13">213</SimpleData>
+		<SimpleData name="FIELD_17">3283</SimpleData>
+		<SimpleData name="FIELD_22">41</SimpleData>
+		<SimpleData name="FIELD_23">Bike Corral</SimpleData>
+		<SimpleData name="FIELD_24">Delaware Ave</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">3.000000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2014</SimpleData>
+		<SimpleData name="FIELD_28">NO</SimpleData>
+		<SimpleData name="FIELD_30">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4278708182001,43.6620573990966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1759</SimpleData>
+		<SimpleData name="FIELD_2">14206623</SimpleData>
+		<SimpleData name="FIELD_3">2198</SimpleData>
+		<SimpleData name="FIELD_4">Yonge St</SimpleData>
+		<SimpleData name="FIELD_5">2198 Yonge St</SimpleData>
+		<SimpleData name="FIELD_6">M4S 2B8</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto-St. Paul's (12)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">14230407</SimpleData>
+		<SimpleData name="FIELD_13">2198</SimpleData>
+		<SimpleData name="FIELD_17">4733</SimpleData>
+		<SimpleData name="FIELD_22">42</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Soudan Ave</SimpleData>
+		<SimpleData name="FIELD_25">16</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3984239071573,43.7058827894606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1760</SimpleData>
+		<SimpleData name="FIELD_2">10494377</SimpleData>
+		<SimpleData name="FIELD_3">222</SimpleData>
+		<SimpleData name="FIELD_4">Spadina Ave</SimpleData>
+		<SimpleData name="FIELD_5">222 Spadina Ave</SimpleData>
+		<SimpleData name="FIELD_6">M5T 3B3</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">10494181</SimpleData>
+		<SimpleData name="FIELD_13">222</SimpleData>
+		<SimpleData name="FIELD_17">4426</SimpleData>
+		<SimpleData name="FIELD_22">44</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Spadina Ave</SimpleData>
+		<SimpleData name="FIELD_25">16</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3978377650267,43.6509286638588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1761</SimpleData>
+		<SimpleData name="FIELD_2">765142</SimpleData>
+		<SimpleData name="FIELD_3">236</SimpleData>
+		<SimpleData name="FIELD_4">Augusta Ave</SimpleData>
+		<SimpleData name="FIELD_5">236 Augusta Ave</SimpleData>
+		<SimpleData name="FIELD_6">M5T 2L7</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">107010</SimpleData>
+		<SimpleData name="FIELD_12">1144604</SimpleData>
+		<SimpleData name="FIELD_13">236</SimpleData>
+		<SimpleData name="FIELD_17">2918</SimpleData>
+		<SimpleData name="FIELD_22">45</SimpleData>
+		<SimpleData name="FIELD_23">Bike Corral</SimpleData>
+		<SimpleData name="FIELD_24">Augusta Ave</SimpleData>
+		<SimpleData name="FIELD_25">24</SimpleData>
+		<SimpleData name="FIELD_26">12.000000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2012</SimpleData>
+		<SimpleData name="FIELD_28">Y</SimpleData>
+		<SimpleData name="FIELD_30">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4025948745683,43.6553455061522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1762</SimpleData>
+		<SimpleData name="FIELD_2">30035743</SimpleData>
+		<SimpleData name="FIELD_3">36</SimpleData>
+		<SimpleData name="FIELD_4">Lisgar St</SimpleData>
+		<SimpleData name="FIELD_5">36 Lisgar St</SimpleData>
+		<SimpleData name="FIELD_6">M6J 0C7</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">100002</SimpleData>
+		<SimpleData name="FIELD_12">14024655</SimpleData>
+		<SimpleData name="FIELD_13">36</SimpleData>
+		<SimpleData name="FIELD_17">3859</SimpleData>
+		<SimpleData name="FIELD_22">59</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Lisgar St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4233157461113,43.6417386470507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1763</SimpleData>
+		<SimpleData name="FIELD_2">10223676</SimpleData>
+		<SimpleData name="FIELD_3">468</SimpleData>
+		<SimpleData name="FIELD_4">King St W</SimpleData>
+		<SimpleData name="FIELD_5">468 King St W</SimpleData>
+		<SimpleData name="FIELD_6">M5V 1L8</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">10223667</SimpleData>
+		<SimpleData name="FIELD_13">468</SimpleData>
+		<SimpleData name="FIELD_17">3780</SimpleData>
+		<SimpleData name="FIELD_22">70</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">King St W</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3959267185292,43.645545087493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1764</SimpleData>
+		<SimpleData name="FIELD_2">14211049</SimpleData>
+		<SimpleData name="FIELD_3">5</SimpleData>
+		<SimpleData name="FIELD_4">Walmer Rd</SimpleData>
+		<SimpleData name="FIELD_5">5 Walmer Rd</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">10759044</SimpleData>
+		<SimpleData name="FIELD_13">5</SimpleData>
+		<SimpleData name="FIELD_17">940</SimpleData>
+		<SimpleData name="FIELD_22">76</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Walmer Rd</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4053783829308,43.6667025082735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1765</SimpleData>
+		<SimpleData name="FIELD_2">10223683</SimpleData>
+		<SimpleData name="FIELD_3">500</SimpleData>
+		<SimpleData name="FIELD_4">King St W</SimpleData>
+		<SimpleData name="FIELD_5">500 King St W</SimpleData>
+		<SimpleData name="FIELD_6">M5V 1L9</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">10223667</SimpleData>
+		<SimpleData name="FIELD_13">500</SimpleData>
+		<SimpleData name="FIELD_17">3780</SimpleData>
+		<SimpleData name="FIELD_22">78</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">King St W</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3968051380048,43.6453156558296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1766</SimpleData>
+		<SimpleData name="FIELD_2">13991066</SimpleData>
+		<SimpleData name="FIELD_3">584</SimpleData>
+		<SimpleData name="FIELD_4">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_5">584 Bloor St W</SimpleData>
+		<SimpleData name="FIELD_6">M6G 1K4</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">8353520</SimpleData>
+		<SimpleData name="FIELD_13">584</SimpleData>
+		<SimpleData name="FIELD_17">458</SimpleData>
+		<SimpleData name="FIELD_22">85</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2017</SimpleData>
+		<SimpleData name="FIELD_30">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4126936121623,43.6651006726937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1767</SimpleData>
+		<SimpleData name="FIELD_2">8416837</SimpleData>
+		<SimpleData name="FIELD_3">692</SimpleData>
+		<SimpleData name="FIELD_4">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_5">692 Bloor St W</SimpleData>
+		<SimpleData name="FIELD_6">M6G 1L4</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">8416823</SimpleData>
+		<SimpleData name="FIELD_13">692</SimpleData>
+		<SimpleData name="FIELD_17">458</SimpleData>
+		<SimpleData name="FIELD_22">95</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Clinton Pl</SimpleData>
+		<SimpleData name="FIELD_25">16</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4174332539337,43.6639772447612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1768</SimpleData>
+		<SimpleData name="FIELD_2">7792587</SimpleData>
+		<SimpleData name="FIELD_3">790</SimpleData>
+		<SimpleData name="FIELD_4">Bay St</SimpleData>
+		<SimpleData name="FIELD_5">790 Bay St</SimpleData>
+		<SimpleData name="FIELD_6">M5G 1N8</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">104008</SimpleData>
+		<SimpleData name="FIELD_12">7792579</SimpleData>
+		<SimpleData name="FIELD_13">790</SimpleData>
+		<SimpleData name="FIELD_17">2962</SimpleData>
+		<SimpleData name="FIELD_22">105</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Bay St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3861750845428,43.6604459643503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1769</SimpleData>
+		<SimpleData name="FIELD_2">880972</SimpleData>
+		<SimpleData name="FIELD_3">241</SimpleData>
+		<SimpleData name="FIELD_4">Wellington St W</SimpleData>
+		<SimpleData name="FIELD_5">241 Wellington St W</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">113001</SimpleData>
+		<SimpleData name="FIELD_12">1146352</SimpleData>
+		<SimpleData name="FIELD_13">241</SimpleData>
+		<SimpleData name="FIELD_17">4652</SimpleData>
+		<SimpleData name="FIELD_22">46</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">John St</SimpleData>
+		<SimpleData name="FIELD_25">16</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3900134101984,43.6449521397727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1770</SimpleData>
+		<SimpleData name="FIELD_2">7994464</SimpleData>
+		<SimpleData name="FIELD_3">40</SimpleData>
+		<SimpleData name="FIELD_4">High Park Ave</SimpleData>
+		<SimpleData name="FIELD_5">40 High Park Ave</SimpleData>
+		<SimpleData name="FIELD_6">M6P 2S1</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Parkdale-High Park (4)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">7994458</SimpleData>
+		<SimpleData name="FIELD_13">40</SimpleData>
+		<SimpleData name="FIELD_17">3660</SimpleData>
+		<SimpleData name="FIELD_22">63</SimpleData>
+		<SimpleData name="FIELD_23">Bike Shelter</SimpleData>
+		<SimpleData name="FIELD_24">High Park Ave</SimpleData>
+		<SimpleData name="FIELD_25">20</SimpleData>
+		<SimpleData name="FIELD_26">10.000000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2013</SimpleData>
+		<SimpleData name="FIELD_30">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4663681478908,43.6547112224053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1771</SimpleData>
+		<SimpleData name="FIELD_2">856375</SimpleData>
+		<SimpleData name="FIELD_3">100</SimpleData>
+		<SimpleData name="FIELD_4">Queen St W</SimpleData>
+		<SimpleData name="FIELD_5">100 Queen St W</SimpleData>
+		<SimpleData name="FIELD_6">M5H 2N1</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_10">Nathan Phillips Square</SimpleData>
+		<SimpleData name="FIELD_11">104001</SimpleData>
+		<SimpleData name="FIELD_12">1145216</SimpleData>
+		<SimpleData name="FIELD_13">100</SimpleData>
+		<SimpleData name="FIELD_17">4238</SimpleData>
+		<SimpleData name="FIELD_22">4</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Queen St W</SimpleData>
+		<SimpleData name="FIELD_25">120</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2015</SimpleData>
+		<SimpleData name="FIELD_30">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3836250552132,43.6528221423182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1772</SimpleData>
+		<SimpleData name="FIELD_2">856701</SimpleData>
+		<SimpleData name="FIELD_3">686</SimpleData>
+		<SimpleData name="FIELD_4">Queen St W</SimpleData>
+		<SimpleData name="FIELD_5">686 Queen St W</SimpleData>
+		<SimpleData name="FIELD_6">M6J 1E7</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">104008</SimpleData>
+		<SimpleData name="FIELD_12">1146191</SimpleData>
+		<SimpleData name="FIELD_13">686</SimpleData>
+		<SimpleData name="FIELD_17">4238</SimpleData>
+		<SimpleData name="FIELD_22">94</SimpleData>
+		<SimpleData name="FIELD_23">Bike Shelter</SimpleData>
+		<SimpleData name="FIELD_24">Euclid Ave</SimpleData>
+		<SimpleData name="FIELD_25">10</SimpleData>
+		<SimpleData name="FIELD_26">3.000000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2015</SimpleData>
+		<SimpleData name="FIELD_30">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4079437964715,43.646578203587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1773</SimpleData>
+		<SimpleData name="FIELD_2">866475</SimpleData>
+		<SimpleData name="FIELD_3">180</SimpleData>
+		<SimpleData name="FIELD_4">Shaw St</SimpleData>
+		<SimpleData name="FIELD_5">180 Shaw St</SimpleData>
+		<SimpleData name="FIELD_6">M6J 2W5</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_10">Givins/Shaw Ps Jr. &amp; Sr.</SimpleData>
+		<SimpleData name="FIELD_11">102001</SimpleData>
+		<SimpleData name="FIELD_12">14018156</SimpleData>
+		<SimpleData name="FIELD_13">180</SimpleData>
+		<SimpleData name="FIELD_17">4388</SimpleData>
+		<SimpleData name="FIELD_22">28</SimpleData>
+		<SimpleData name="FIELD_23">Bike Shelter</SimpleData>
+		<SimpleData name="FIELD_24">Shaw St</SimpleData>
+		<SimpleData name="FIELD_25">18</SimpleData>
+		<SimpleData name="FIELD_26">7.600000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2013</SimpleData>
+		<SimpleData name="FIELD_30">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4175862610454,43.6468989083573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1774</SimpleData>
+		<SimpleData name="FIELD_2">887713</SimpleData>
+		<SimpleData name="FIELD_3">1140</SimpleData>
+		<SimpleData name="FIELD_4">Yonge St</SimpleData>
+		<SimpleData name="FIELD_5">1140 Yonge St</SimpleData>
+		<SimpleData name="FIELD_6">M4W 2L8</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">112001</SimpleData>
+		<SimpleData name="FIELD_12">1140465</SimpleData>
+		<SimpleData name="FIELD_13">1140</SimpleData>
+		<SimpleData name="FIELD_17">4733</SimpleData>
+		<SimpleData name="FIELD_22">11</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Malborough Ave</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3910471597584,43.6795102439657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1775</SimpleData>
+		<SimpleData name="FIELD_2">310564</SimpleData>
+		<SimpleData name="FIELD_3">150</SimpleData>
+		<SimpleData name="FIELD_4">Borough Dr</SimpleData>
+		<SimpleData name="FIELD_5">150 Borough Dr</SimpleData>
+		<SimpleData name="FIELD_6">M1P 4N7</SimpleData>
+		<SimpleData name="FIELD_7">Scarborough</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Scarborough Centre (21)</SimpleData>
+		<SimpleData name="FIELD_10">Albert Campbell Square</SimpleData>
+		<SimpleData name="FIELD_11">104001</SimpleData>
+		<SimpleData name="FIELD_12">107945</SimpleData>
+		<SimpleData name="FIELD_13">150</SimpleData>
+		<SimpleData name="FIELD_17">7397</SimpleData>
+		<SimpleData name="FIELD_22">22</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Borough Dr</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2014</SimpleData>
+		<SimpleData name="FIELD_30">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2572409578119,43.772810586741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1776</SimpleData>
+		<SimpleData name="FIELD_2">7730108</SimpleData>
+		<SimpleData name="FIELD_3">350</SimpleData>
+		<SimpleData name="FIELD_4">Victoria St</SimpleData>
+		<SimpleData name="FIELD_5">350 Victoria St</SimpleData>
+		<SimpleData name="FIELD_6">M5B 2K3</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">30060911</SimpleData>
+		<SimpleData name="FIELD_13">350</SimpleData>
+		<SimpleData name="FIELD_17">9790</SimpleData>
+		<SimpleData name="FIELD_22">55</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Gould St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3804798260292,43.6577656354656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1777</SimpleData>
+		<SimpleData name="FIELD_2">8353493</SimpleData>
+		<SimpleData name="FIELD_3">266</SimpleData>
+		<SimpleData name="FIELD_4">King St E</SimpleData>
+		<SimpleData name="FIELD_5">266 King St E</SimpleData>
+		<SimpleData name="FIELD_6">M5A 1K3</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">8353517</SimpleData>
+		<SimpleData name="FIELD_13">266</SimpleData>
+		<SimpleData name="FIELD_17">3779</SimpleData>
+		<SimpleData name="FIELD_22">48</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Ontario St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3663420506319,43.6519627216596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1778</SimpleData>
+		<SimpleData name="FIELD_2">7642554</SimpleData>
+		<SimpleData name="FIELD_3">277</SimpleData>
+		<SimpleData name="FIELD_4">Victoria St</SimpleData>
+		<SimpleData name="FIELD_5">277 Victoria St</SimpleData>
+		<SimpleData name="FIELD_6">M5B 1W2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_11">104008</SimpleData>
+		<SimpleData name="FIELD_12">30075808</SimpleData>
+		<SimpleData name="FIELD_13">277</SimpleData>
+		<SimpleData name="FIELD_17">9790</SimpleData>
+		<SimpleData name="FIELD_22">50</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Dundas St E</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3793385702209,43.6565589127866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1779</SimpleData>
+		<SimpleData name="FIELD_2">10864283</SimpleData>
+		<SimpleData name="FIELD_3">28</SimpleData>
+		<SimpleData name="FIELD_4">Duncan St</SimpleData>
+		<SimpleData name="FIELD_5">28 Duncan St</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">14036084</SimpleData>
+		<SimpleData name="FIELD_13">28</SimpleData>
+		<SimpleData name="FIELD_17">3331</SimpleData>
+		<SimpleData name="FIELD_22">51</SimpleData>
+		<SimpleData name="FIELD_23">Bike Corral</SimpleData>
+		<SimpleData name="FIELD_24">Nelson St</SimpleData>
+		<SimpleData name="FIELD_25">14</SimpleData>
+		<SimpleData name="FIELD_26">5.500000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2015</SimpleData>
+		<SimpleData name="FIELD_28">NO</SimpleData>
+		<SimpleData name="FIELD_30">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3892098795828,43.6487811930649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1780</SimpleData>
+		<SimpleData name="FIELD_2">30069161</SimpleData>
+		<SimpleData name="FIELD_3">35</SimpleData>
+		<SimpleData name="FIELD_4">York St</SimpleData>
+		<SimpleData name="FIELD_5">35 York St</SimpleData>
+		<SimpleData name="FIELD_6">M5J 0C7</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">108002</SimpleData>
+		<SimpleData name="FIELD_12">13975053</SimpleData>
+		<SimpleData name="FIELD_13">35</SimpleData>
+		<SimpleData name="FIELD_17">4735</SimpleData>
+		<SimpleData name="FIELD_22">54</SimpleData>
+		<SimpleData name="FIELD_23">Angled Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Front St W</SimpleData>
+		<SimpleData name="FIELD_25">30</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2015</SimpleData>
+		<SimpleData name="FIELD_30">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3814651014112,43.6437906731595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1781</SimpleData>
+		<SimpleData name="FIELD_2">7929475</SimpleData>
+		<SimpleData name="FIELD_3">357</SimpleData>
+		<SimpleData name="FIELD_4">Bay St</SimpleData>
+		<SimpleData name="FIELD_5">357 Bay St</SimpleData>
+		<SimpleData name="FIELD_6">M5H 2T7</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">7929469</SimpleData>
+		<SimpleData name="FIELD_13">357</SimpleData>
+		<SimpleData name="FIELD_17">2962</SimpleData>
+		<SimpleData name="FIELD_22">57</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Temperance St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3808769998818,43.6508344042378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1782</SimpleData>
+		<SimpleData name="FIELD_2">10736597</SimpleData>
+		<SimpleData name="FIELD_3">362</SimpleData>
+		<SimpleData name="FIELD_4">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_5">362 Bloor St W</SimpleData>
+		<SimpleData name="FIELD_6">M5S 1X2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_10">The Living Stone Church</SimpleData>
+		<SimpleData name="FIELD_11">109001</SimpleData>
+		<SimpleData name="FIELD_12">10736589</SimpleData>
+		<SimpleData name="FIELD_13">362</SimpleData>
+		<SimpleData name="FIELD_17">458</SimpleData>
+		<SimpleData name="FIELD_22">60</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Walmer Rd</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4057839572486,43.6665134281721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1783</SimpleData>
+		<SimpleData name="FIELD_2">12562241</SimpleData>
+		<SimpleData name="FIELD_3">375</SimpleData>
+		<SimpleData name="FIELD_4">St Clair Ave W</SimpleData>
+		<SimpleData name="FIELD_5">375 St Clair Ave W</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto-St. Paul's (12)</SimpleData>
+		<SimpleData name="FIELD_10">Nordheimer Ravine</SimpleData>
+		<SimpleData name="FIELD_11">106001</SimpleData>
+		<SimpleData name="FIELD_12">30076115</SimpleData>
+		<SimpleData name="FIELD_13">375</SimpleData>
+		<SimpleData name="FIELD_17">890</SimpleData>
+		<SimpleData name="FIELD_22">61</SimpleData>
+		<SimpleData name="FIELD_23">Bike Shelter</SimpleData>
+		<SimpleData name="FIELD_24">St Clair Ave W</SimpleData>
+		<SimpleData name="FIELD_25">20</SimpleData>
+		<SimpleData name="FIELD_26">10.000000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2011</SimpleData>
+		<SimpleData name="FIELD_30">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4143290305209,43.6836946284848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1784</SimpleData>
+		<SimpleData name="FIELD_2">10258457</SimpleData>
+		<SimpleData name="FIELD_3">40</SimpleData>
+		<SimpleData name="FIELD_4">Orchard View Blvd</SimpleData>
+		<SimpleData name="FIELD_5">40 Orchard View Blvd</SimpleData>
+		<SimpleData name="FIELD_6">M4R 1B9</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Eglinton-Lawrence (8)</SimpleData>
+		<SimpleData name="FIELD_10">Northern District Public Library</SimpleData>
+		<SimpleData name="FIELD_11">107009</SimpleData>
+		<SimpleData name="FIELD_12">10258454</SimpleData>
+		<SimpleData name="FIELD_13">40</SimpleData>
+		<SimpleData name="FIELD_17">4111</SimpleData>
+		<SimpleData name="FIELD_22">64</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Roehampton Ave</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4000640484789,43.7082699050511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1785</SimpleData>
+		<SimpleData name="FIELD_2">7730077</SimpleData>
+		<SimpleData name="FIELD_3">400</SimpleData>
+		<SimpleData name="FIELD_4">Yonge St</SimpleData>
+		<SimpleData name="FIELD_5">400 Yonge St</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">7730098</SimpleData>
+		<SimpleData name="FIELD_13">400</SimpleData>
+		<SimpleData name="FIELD_17">4733</SimpleData>
+		<SimpleData name="FIELD_22">65</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Gerrard St W</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3826468222771,43.6595417581254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1786</SimpleData>
+		<SimpleData name="FIELD_2">785313</SimpleData>
+		<SimpleData name="FIELD_3">429</SimpleData>
+		<SimpleData name="FIELD_4">College St</SimpleData>
+		<SimpleData name="FIELD_5">429 College St</SimpleData>
+		<SimpleData name="FIELD_6">M5T 1T2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">104008</SimpleData>
+		<SimpleData name="FIELD_12">1144402</SimpleData>
+		<SimpleData name="FIELD_13">429</SimpleData>
+		<SimpleData name="FIELD_17">9765</SimpleData>
+		<SimpleData name="FIELD_22">66</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Bathurst St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4072847841266,43.6562832334017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1787</SimpleData>
+		<SimpleData name="FIELD_2">9980658</SimpleData>
+		<SimpleData name="FIELD_3">449</SimpleData>
+		<SimpleData name="FIELD_4">Parliament St</SimpleData>
+		<SimpleData name="FIELD_5">449 Parliament St</SimpleData>
+		<SimpleData name="FIELD_6">M5A 3A3</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">14023933</SimpleData>
+		<SimpleData name="FIELD_13">449</SimpleData>
+		<SimpleData name="FIELD_17">4162</SimpleData>
+		<SimpleData name="FIELD_22">69</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Spruce St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3671626414988,43.6635065844203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1788</SimpleData>
+		<SimpleData name="FIELD_2">30038007</SimpleData>
+		<SimpleData name="FIELD_3">47</SimpleData>
+		<SimpleData name="FIELD_4">Lower River St</SimpleData>
+		<SimpleData name="FIELD_5">47 Lower River St</SimpleData>
+		<SimpleData name="FIELD_6">M5A 0G1</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_11">100002</SimpleData>
+		<SimpleData name="FIELD_12">30037989</SimpleData>
+		<SimpleData name="FIELD_13">47</SimpleData>
+		<SimpleData name="FIELD_17">19546</SimpleData>
+		<SimpleData name="FIELD_22">71</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Trolley Cres</SimpleData>
+		<SimpleData name="FIELD_25">24</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.35554106317,43.6564985969909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1789</SimpleData>
+		<SimpleData name="FIELD_2">11180397</SimpleData>
+		<SimpleData name="FIELD_3">49</SimpleData>
+		<SimpleData name="FIELD_4">Givins St</SimpleData>
+		<SimpleData name="FIELD_5">49 Givins St</SimpleData>
+		<SimpleData name="FIELD_6">M6J 2X5</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_10">Givins/Shaw Public School</SimpleData>
+		<SimpleData name="FIELD_11">102002</SimpleData>
+		<SimpleData name="FIELD_12">11180398</SimpleData>
+		<SimpleData name="FIELD_13">49</SimpleData>
+		<SimpleData name="FIELD_17">3505</SimpleData>
+		<SimpleData name="FIELD_22">72</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Shaw St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2013</SimpleData>
+		<SimpleData name="FIELD_30">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4175842923766,43.6464076573477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1790</SimpleData>
+		<SimpleData name="FIELD_2">854435</SimpleData>
+		<SimpleData name="FIELD_3">50</SimpleData>
+		<SimpleData name="FIELD_4">Portland St</SimpleData>
+		<SimpleData name="FIELD_5">50 Portland St</SimpleData>
+		<SimpleData name="FIELD_6">M5V 2M7</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">112001</SimpleData>
+		<SimpleData name="FIELD_12">14025624</SimpleData>
+		<SimpleData name="FIELD_13">50</SimpleData>
+		<SimpleData name="FIELD_17">9780</SimpleData>
+		<SimpleData name="FIELD_22">77</SimpleData>
+		<SimpleData name="FIELD_23">Bike Corral</SimpleData>
+		<SimpleData name="FIELD_24">Wellington St W</SimpleData>
+		<SimpleData name="FIELD_25">14</SimpleData>
+		<SimpleData name="FIELD_26">5.500000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_28">NO</SimpleData>
+		<SimpleData name="FIELD_30">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3999654356682,43.6433952592458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1791</SimpleData>
+		<SimpleData name="FIELD_2">10222755</SimpleData>
+		<SimpleData name="FIELD_3">511</SimpleData>
+		<SimpleData name="FIELD_4">King St W</SimpleData>
+		<SimpleData name="FIELD_5">511 King St W</SimpleData>
+		<SimpleData name="FIELD_6">M5V 2Z4</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">10222754</SimpleData>
+		<SimpleData name="FIELD_13">511</SimpleData>
+		<SimpleData name="FIELD_17">3780</SimpleData>
+		<SimpleData name="FIELD_22">80</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">King St W</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3978494175301,43.6446235513294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1792</SimpleData>
+		<SimpleData name="FIELD_2">2854062</SimpleData>
+		<SimpleData name="FIELD_3">522</SimpleData>
+		<SimpleData name="FIELD_4">University Ave</SimpleData>
+		<SimpleData name="FIELD_5">522 University Ave</SimpleData>
+		<SimpleData name="FIELD_6">M5G 1W7</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">104008</SimpleData>
+		<SimpleData name="FIELD_12">2854059</SimpleData>
+		<SimpleData name="FIELD_13">522</SimpleData>
+		<SimpleData name="FIELD_17">4583</SimpleData>
+		<SimpleData name="FIELD_22">82</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Elm St</SimpleData>
+		<SimpleData name="FIELD_25">16</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3893801203605,43.6559184351809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1793</SimpleData>
+		<SimpleData name="FIELD_2">30028624</SimpleData>
+		<SimpleData name="FIELD_3">539</SimpleData>
+		<SimpleData name="FIELD_4">Parliament St</SimpleData>
+		<SimpleData name="FIELD_5">539 Parliament St</SimpleData>
+		<SimpleData name="FIELD_6">M4X 1P7</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_11">112001</SimpleData>
+		<SimpleData name="FIELD_12">9980335</SimpleData>
+		<SimpleData name="FIELD_13">539</SimpleData>
+		<SimpleData name="FIELD_17">4162</SimpleData>
+		<SimpleData name="FIELD_22">83</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Winchester St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3684723713959,43.6660407871926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1794</SimpleData>
+		<SimpleData name="FIELD_2">10864312</SimpleData>
+		<SimpleData name="FIELD_3">61</SimpleData>
+		<SimpleData name="FIELD_4">Front St W</SimpleData>
+		<SimpleData name="FIELD_5">61 Front St W</SimpleData>
+		<SimpleData name="FIELD_6">M5J 1E5</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">10864309</SimpleData>
+		<SimpleData name="FIELD_13">61</SimpleData>
+		<SimpleData name="FIELD_17">3472</SimpleData>
+		<SimpleData name="FIELD_22">87</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Front St</SimpleData>
+		<SimpleData name="FIELD_25">72</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2015</SimpleData>
+		<SimpleData name="FIELD_30">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3800700536371,43.6452454056884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1795</SimpleData>
+		<SimpleData name="FIELD_2">51630</SimpleData>
+		<SimpleData name="FIELD_3">5</SimpleData>
+		<SimpleData name="FIELD_4">Bartonville Ave E</SimpleData>
+		<SimpleData name="FIELD_5">5 Bartonville Ave E</SimpleData>
+		<SimpleData name="FIELD_6">M6M 2B1</SimpleData>
+		<SimpleData name="FIELD_7">York</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">York South-Weston (5)</SimpleData>
+		<SimpleData name="FIELD_11">104008</SimpleData>
+		<SimpleData name="FIELD_12">20112838</SimpleData>
+		<SimpleData name="FIELD_13">5</SimpleData>
+		<SimpleData name="FIELD_17">433</SimpleData>
+		<SimpleData name="FIELD_22">74</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2017</SimpleData>
+		<SimpleData name="FIELD_30">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.494582675061,43.6894845939346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1796</SimpleData>
+		<SimpleData name="FIELD_2">10180172</SimpleData>
+		<SimpleData name="FIELD_3">621</SimpleData>
+		<SimpleData name="FIELD_4">King St W</SimpleData>
+		<SimpleData name="FIELD_5">621 King St W</SimpleData>
+		<SimpleData name="FIELD_6">M5V 1M5</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">14674278</SimpleData>
+		<SimpleData name="FIELD_13">621</SimpleData>
+		<SimpleData name="FIELD_17">3780</SimpleData>
+		<SimpleData name="FIELD_22">89</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">King St W</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4011498459826,43.6440028829522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1797</SimpleData>
+		<SimpleData name="FIELD_2">30033825</SimpleData>
+		<SimpleData name="FIELD_3">636</SimpleData>
+		<SimpleData name="FIELD_4">Queen St E</SimpleData>
+		<SimpleData name="FIELD_5">636 Queen St E</SimpleData>
+		<SimpleData name="FIELD_6">M4M 1G3</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto-Danforth (14)</SimpleData>
+		<SimpleData name="FIELD_11">112001</SimpleData>
+		<SimpleData name="FIELD_12">11585489</SimpleData>
+		<SimpleData name="FIELD_13">636</SimpleData>
+		<SimpleData name="FIELD_17">4237</SimpleData>
+		<SimpleData name="FIELD_22">90</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Caroll St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3525953501831,43.6584322328156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1798</SimpleData>
+		<SimpleData name="FIELD_2">8416907</SimpleData>
+		<SimpleData name="FIELD_3">675</SimpleData>
+		<SimpleData name="FIELD_4">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_5">675 Bloor St W</SimpleData>
+		<SimpleData name="FIELD_6">M6G 1L3</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">8416891</SimpleData>
+		<SimpleData name="FIELD_13">675</SimpleData>
+		<SimpleData name="FIELD_17">458</SimpleData>
+		<SimpleData name="FIELD_22">93</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Manning Ave</SimpleData>
+		<SimpleData name="FIELD_25">56</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4162538549835,43.663806234493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1799</SimpleData>
+		<SimpleData name="FIELD_2">10906649</SimpleData>
+		<SimpleData name="FIELD_3">720</SimpleData>
+		<SimpleData name="FIELD_4">Bay St</SimpleData>
+		<SimpleData name="FIELD_5">720 Bay St</SimpleData>
+		<SimpleData name="FIELD_6">M5G 2K1</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">10906644</SimpleData>
+		<SimpleData name="FIELD_13">720</SimpleData>
+		<SimpleData name="FIELD_17">2962</SimpleData>
+		<SimpleData name="FIELD_22">100</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Gerrard St W</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3854849354963,43.6588371126302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1800</SimpleData>
+		<SimpleData name="FIELD_2">14120392</SimpleData>
+		<SimpleData name="FIELD_3">736</SimpleData>
+		<SimpleData name="FIELD_4">Bay St</SimpleData>
+		<SimpleData name="FIELD_5">736 Bay St</SimpleData>
+		<SimpleData name="FIELD_6">M5G 2M4</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">7792579</SimpleData>
+		<SimpleData name="FIELD_13">736</SimpleData>
+		<SimpleData name="FIELD_17">2962</SimpleData>
+		<SimpleData name="FIELD_22">101</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Bay St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3856470491767,43.6593434836471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1801</SimpleData>
+		<SimpleData name="FIELD_2">10386594</SimpleData>
+		<SimpleData name="FIELD_3">743</SimpleData>
+		<SimpleData name="FIELD_4">Pape Ave</SimpleData>
+		<SimpleData name="FIELD_5">743 Pape Ave</SimpleData>
+		<SimpleData name="FIELD_6">M4K 3T1</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto-Danforth (14)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">10386591</SimpleData>
+		<SimpleData name="FIELD_13">743</SimpleData>
+		<SimpleData name="FIELD_17">280</SimpleData>
+		<SimpleData name="FIELD_22">102</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Lipton Ave</SimpleData>
+		<SimpleData name="FIELD_25">32</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2015</SimpleData>
+		<SimpleData name="FIELD_30">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3450123847713,43.6798873239788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1802</SimpleData>
+		<SimpleData name="FIELD_2">7569577</SimpleData>
+		<SimpleData name="FIELD_3">798</SimpleData>
+		<SimpleData name="FIELD_4">Richmond St W</SimpleData>
+		<SimpleData name="FIELD_5">798 Richmond St W</SimpleData>
+		<SimpleData name="FIELD_6">M6J 3P3</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">100002</SimpleData>
+		<SimpleData name="FIELD_12">7569576</SimpleData>
+		<SimpleData name="FIELD_13">798</SimpleData>
+		<SimpleData name="FIELD_17">4277</SimpleData>
+		<SimpleData name="FIELD_22">106</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Niagara St</SimpleData>
+		<SimpleData name="FIELD_25">16</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4098108572165,43.6451297244944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1803</SimpleData>
+		<SimpleData name="FIELD_2">785507</SimpleData>
+		<SimpleData name="FIELD_3">802</SimpleData>
+		<SimpleData name="FIELD_4">College St</SimpleData>
+		<SimpleData name="FIELD_5">802 College St</SimpleData>
+		<SimpleData name="FIELD_6">M6G 1C8</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">107010</SimpleData>
+		<SimpleData name="FIELD_12">1144782</SimpleData>
+		<SimpleData name="FIELD_13">802</SimpleData>
+		<SimpleData name="FIELD_17">9765</SimpleData>
+		<SimpleData name="FIELD_22">107</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Roxton Rd</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4217098646824,43.6548443189396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1804</SimpleData>
+		<SimpleData name="FIELD_2">773004</SimpleData>
+		<SimpleData name="FIELD_3">813</SimpleData>
+		<SimpleData name="FIELD_4">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_5">813 Bloor St W</SimpleData>
+		<SimpleData name="FIELD_6">M6G 1L8</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">112001</SimpleData>
+		<SimpleData name="FIELD_12">30039479</SimpleData>
+		<SimpleData name="FIELD_13">813</SimpleData>
+		<SimpleData name="FIELD_17">458</SimpleData>
+		<SimpleData name="FIELD_22">108</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2014</SimpleData>
+		<SimpleData name="FIELD_30">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4217629457854,43.6625538026018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1805</SimpleData>
+		<SimpleData name="FIELD_2">785590</SimpleData>
+		<SimpleData name="FIELD_3">940</SimpleData>
+		<SimpleData name="FIELD_4">College St</SimpleData>
+		<SimpleData name="FIELD_5">940 College St</SimpleData>
+		<SimpleData name="FIELD_6">M6H 1A5</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">107010</SimpleData>
+		<SimpleData name="FIELD_12">14018364</SimpleData>
+		<SimpleData name="FIELD_13">940</SimpleData>
+		<SimpleData name="FIELD_17">9765</SimpleData>
+		<SimpleData name="FIELD_22">114</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Dovercourt Rd</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4266277065843,43.6537429799659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1806</SimpleData>
+		<SimpleData name="FIELD_2">773158</SimpleData>
+		<SimpleData name="FIELD_3">1034</SimpleData>
+		<SimpleData name="FIELD_4">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_5">1034 Bloor St W</SimpleData>
+		<SimpleData name="FIELD_6">M6H 1M3</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">107010</SimpleData>
+		<SimpleData name="FIELD_12">1143821</SimpleData>
+		<SimpleData name="FIELD_13">1034</SimpleData>
+		<SimpleData name="FIELD_17">458</SimpleData>
+		<SimpleData name="FIELD_22">8</SimpleData>
+		<SimpleData name="FIELD_23">Angled Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Salem Ave</SimpleData>
+		<SimpleData name="FIELD_25">5</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4319342255372,43.6608848734219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1807</SimpleData>
+		<SimpleData name="FIELD_2">10334643</SimpleData>
+		<SimpleData name="FIELD_3">12</SimpleData>
+		<SimpleData name="FIELD_4">Emerson Ave</SimpleData>
+		<SimpleData name="FIELD_5">12 Emerson Ave</SimpleData>
+		<SimpleData name="FIELD_6">M6H 3S8</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">14012771</SimpleData>
+		<SimpleData name="FIELD_13">12</SimpleData>
+		<SimpleData name="FIELD_17">3396</SimpleData>
+		<SimpleData name="FIELD_22">14</SimpleData>
+		<SimpleData name="FIELD_23">Bike Corral</SimpleData>
+		<SimpleData name="FIELD_24">Emerson Ave</SimpleData>
+		<SimpleData name="FIELD_25">14</SimpleData>
+		<SimpleData name="FIELD_26">5.500000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2014</SimpleData>
+		<SimpleData name="FIELD_28">NO</SimpleData>
+		<SimpleData name="FIELD_30">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4413132921915,43.6593829779361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1808</SimpleData>
+		<SimpleData name="FIELD_2">20364714</SimpleData>
+		<SimpleData name="FIELD_3">82</SimpleData>
+		<SimpleData name="FIELD_4">Fort York Blvd</SimpleData>
+		<SimpleData name="FIELD_5">82 Fort York Blvd</SimpleData>
+		<SimpleData name="FIELD_6">M5V 4A6</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">112001</SimpleData>
+		<SimpleData name="FIELD_12">30036751</SimpleData>
+		<SimpleData name="FIELD_13">82</SimpleData>
+		<SimpleData name="FIELD_17">15826</SimpleData>
+		<SimpleData name="FIELD_22">109</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Fort York Blvd</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3967708309412,43.6400217734976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1809</SimpleData>
+		<SimpleData name="FIELD_2">20040470</SimpleData>
+		<SimpleData name="FIELD_3">65</SimpleData>
+		<SimpleData name="FIELD_4">Dundas St W</SimpleData>
+		<SimpleData name="FIELD_5">65 Dundas St W</SimpleData>
+		<SimpleData name="FIELD_6">M5G 2C3</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_10">Eaton Centre Retail Entr</SimpleData>
+		<SimpleData name="FIELD_11">112001</SimpleData>
+		<SimpleData name="FIELD_12">7762832</SimpleData>
+		<SimpleData name="FIELD_13">65</SimpleData>
+		<SimpleData name="FIELD_17">558</SimpleData>
+		<SimpleData name="FIELD_22">91</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Bay St</SimpleData>
+		<SimpleData name="FIELD_25">32</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3830072851693,43.6555937758623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1810</SimpleData>
+		<SimpleData name="FIELD_2">10576992</SimpleData>
+		<SimpleData name="FIELD_3">860</SimpleData>
+		<SimpleData name="FIELD_4">College St</SimpleData>
+		<SimpleData name="FIELD_5">860 College St</SimpleData>
+		<SimpleData name="FIELD_6">M6H 1A2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">10576972</SimpleData>
+		<SimpleData name="FIELD_13">860</SimpleData>
+		<SimpleData name="FIELD_17">9765</SimpleData>
+		<SimpleData name="FIELD_22">110</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Concord Ave</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4238539128414,43.6544574848038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1811</SimpleData>
+		<SimpleData name="FIELD_2">6047970</SimpleData>
+		<SimpleData name="FIELD_3">901</SimpleData>
+		<SimpleData name="FIELD_4">King St W</SimpleData>
+		<SimpleData name="FIELD_5">901 King St W</SimpleData>
+		<SimpleData name="FIELD_6">M5V 3H5</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">14024874</SimpleData>
+		<SimpleData name="FIELD_13">901</SimpleData>
+		<SimpleData name="FIELD_17">3780</SimpleData>
+		<SimpleData name="FIELD_22">111</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">King St W</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4112467840044,43.6418724238127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1812</SimpleData>
+		<SimpleData name="FIELD_2">30039986</SimpleData>
+		<SimpleData name="FIELD_3">92</SimpleData>
+		<SimpleData name="FIELD_4">Fort York Blvd</SimpleData>
+		<SimpleData name="FIELD_5">92 Fort York Blvd</SimpleData>
+		<SimpleData name="FIELD_6">M5V 4A7</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">30036751</SimpleData>
+		<SimpleData name="FIELD_13">92</SimpleData>
+		<SimpleData name="FIELD_17">15826</SimpleData>
+		<SimpleData name="FIELD_22">112</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Fort York Blvd</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3969681695071,43.6399814003218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1813</SimpleData>
+		<SimpleData name="FIELD_2">30035793</SimpleData>
+		<SimpleData name="FIELD_3">92</SimpleData>
+		<SimpleData name="FIELD_4">Sudbury St</SimpleData>
+		<SimpleData name="FIELD_5">92 Sudbury St</SimpleData>
+		<SimpleData name="FIELD_6">M6J 0C5</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">112001</SimpleData>
+		<SimpleData name="FIELD_12">7553518</SimpleData>
+		<SimpleData name="FIELD_13">92</SimpleData>
+		<SimpleData name="FIELD_17">4502</SimpleData>
+		<SimpleData name="FIELD_22">113</SimpleData>
+		<SimpleData name="FIELD_23">Bike Corral</SimpleData>
+		<SimpleData name="FIELD_24">Lisgar St</SimpleData>
+		<SimpleData name="FIELD_25">14</SimpleData>
+		<SimpleData name="FIELD_26">5.500000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2017</SimpleData>
+		<SimpleData name="FIELD_28">NO</SimpleData>
+		<SimpleData name="FIELD_30">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4231656377467,43.6413458972849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1814</SimpleData>
+		<SimpleData name="FIELD_2">30035742</SimpleData>
+		<SimpleData name="FIELD_3">44</SimpleData>
+		<SimpleData name="FIELD_4">Lisgar St</SimpleData>
+		<SimpleData name="FIELD_5">44 Lisgar St</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">107010</SimpleData>
+		<SimpleData name="FIELD_12">14024655</SimpleData>
+		<SimpleData name="FIELD_13">44</SimpleData>
+		<SimpleData name="FIELD_17">3859</SimpleData>
+		<SimpleData name="FIELD_22">67</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Lisgar St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4234411856628,43.6420865352289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1815</SimpleData>
+		<SimpleData name="FIELD_2">11075760</SimpleData>
+		<SimpleData name="FIELD_3">95</SimpleData>
+		<SimpleData name="FIELD_4">Front St E</SimpleData>
+		<SimpleData name="FIELD_5">95 Front St E</SimpleData>
+		<SimpleData name="FIELD_6">M5E 1C2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">11075761</SimpleData>
+		<SimpleData name="FIELD_13">95</SimpleData>
+		<SimpleData name="FIELD_17">3471</SimpleData>
+		<SimpleData name="FIELD_22">115</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Lower Jarvis St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2014</SimpleData>
+		<SimpleData name="FIELD_30">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3714937127787,43.6491812588323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1816</SimpleData>
+		<SimpleData name="FIELD_2">379258</SimpleData>
+		<SimpleData name="FIELD_3">95</SimpleData>
+		<SimpleData name="FIELD_4">River Grove Dr</SimpleData>
+		<SimpleData name="FIELD_5">95 River Grove Dr</SimpleData>
+		<SimpleData name="FIELD_6">M1W 3T8</SimpleData>
+		<SimpleData name="FIELD_7">Scarborough</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Scarborough-Agincourt (22)</SimpleData>
+		<SimpleData name="FIELD_11">100001</SimpleData>
+		<SimpleData name="FIELD_12">20052191</SimpleData>
+		<SimpleData name="FIELD_13">95</SimpleData>
+		<SimpleData name="FIELD_17">8803</SimpleData>
+		<SimpleData name="FIELD_22">116</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Kennedy Rd</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3173896510384,43.8209470944401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1817</SimpleData>
+		<SimpleData name="FIELD_2">10034904</SimpleData>
+		<SimpleData name="FIELD_3">953</SimpleData>
+		<SimpleData name="FIELD_4">Gerrard St E</SimpleData>
+		<SimpleData name="FIELD_5">953 Gerrard St E</SimpleData>
+		<SimpleData name="FIELD_6">M4M 1Z4</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto-Danforth (14)</SimpleData>
+		<SimpleData name="FIELD_10">Matty Eckler Playground,Pape Avenue Playground</SimpleData>
+		<SimpleData name="FIELD_11">106007</SimpleData>
+		<SimpleData name="FIELD_12">10034902</SimpleData>
+		<SimpleData name="FIELD_13">953</SimpleData>
+		<SimpleData name="FIELD_17">3495</SimpleData>
+		<SimpleData name="FIELD_22">117</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Pape Ave</SimpleData>
+		<SimpleData name="FIELD_25">16</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3393969830404,43.668053671131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1818</SimpleData>
+		<SimpleData name="FIELD_2">10335151</SimpleData>
+		<SimpleData name="FIELD_3">695</SimpleData>
+		<SimpleData name="FIELD_4">Lansdowne Ave</SimpleData>
+		<SimpleData name="FIELD_5">695 Lansdowne Ave</SimpleData>
+		<SimpleData name="FIELD_6">M6H 3Y9</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">14012788</SimpleData>
+		<SimpleData name="FIELD_13">695</SimpleData>
+		<SimpleData name="FIELD_17">3814</SimpleData>
+		<SimpleData name="FIELD_22">97</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Lansdowne Ave</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2014</SimpleData>
+		<SimpleData name="FIELD_30">63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4428104294615,43.6591290436207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1819</SimpleData>
+		<SimpleData name="FIELD_2">825934</SimpleData>
+		<SimpleData name="FIELD_3">55</SimpleData>
+		<SimpleData name="FIELD_4">John St</SimpleData>
+		<SimpleData name="FIELD_5">55 John St</SimpleData>
+		<SimpleData name="FIELD_6">M5V 3C6</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_10">Metro Hall</SimpleData>
+		<SimpleData name="FIELD_11">104008</SimpleData>
+		<SimpleData name="FIELD_12">1146312</SimpleData>
+		<SimpleData name="FIELD_13">55</SimpleData>
+		<SimpleData name="FIELD_17">9747</SimpleData>
+		<SimpleData name="FIELD_22">84</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">John St</SimpleData>
+		<SimpleData name="FIELD_25">16</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2015</SimpleData>
+		<SimpleData name="FIELD_30">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3889314920572,43.6461537935103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1820</SimpleData>
+		<SimpleData name="FIELD_2">14171704</SimpleData>
+		<SimpleData name="FIELD_3">300</SimpleData>
+		<SimpleData name="FIELD_4">Victoria St</SimpleData>
+		<SimpleData name="FIELD_5">300 Victoria St</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">30075809</SimpleData>
+		<SimpleData name="FIELD_13">300</SimpleData>
+		<SimpleData name="FIELD_17">9790</SimpleData>
+		<SimpleData name="FIELD_22">52</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Gould St</SimpleData>
+		<SimpleData name="FIELD_25">32</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3802376738898,43.6575126331535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1821</SimpleData>
+		<SimpleData name="FIELD_2">30015452</SimpleData>
+		<SimpleData name="FIELD_3">138</SimpleData>
+		<SimpleData name="FIELD_4">Fort York Blvd</SimpleData>
+		<SimpleData name="FIELD_5">138 Fort York Blvd</SimpleData>
+		<SimpleData name="FIELD_6">M5V 0E3</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">100001</SimpleData>
+		<SimpleData name="FIELD_12">30015458</SimpleData>
+		<SimpleData name="FIELD_13">138</SimpleData>
+		<SimpleData name="FIELD_17">15826</SimpleData>
+		<SimpleData name="FIELD_22">20</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Ft York Blvd</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3987871031906,43.6393807610521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1822</SimpleData>
+		<SimpleData name="FIELD_2">8312904</SimpleData>
+		<SimpleData name="FIELD_3">1595</SimpleData>
+		<SimpleData name="FIELD_4">Dupont St</SimpleData>
+		<SimpleData name="FIELD_5">1595 Dupont St</SimpleData>
+		<SimpleData name="FIELD_6">M6P 3S8</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">8312902</SimpleData>
+		<SimpleData name="FIELD_13">1595</SimpleData>
+		<SimpleData name="FIELD_17">3343</SimpleData>
+		<SimpleData name="FIELD_22">26</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Franklin Ave</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2017</SimpleData>
+		<SimpleData name="FIELD_30">67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4542193179898,43.6649358894512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1823</SimpleData>
+		<SimpleData name="FIELD_2">8408498</SimpleData>
+		<SimpleData name="FIELD_3">2</SimpleData>
+		<SimpleData name="FIELD_4">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_5">2 Bloor St W</SimpleData>
+		<SimpleData name="FIELD_6">M4W 3E2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">10759265</SimpleData>
+		<SimpleData name="FIELD_13">2</SimpleData>
+		<SimpleData name="FIELD_17">458</SimpleData>
+		<SimpleData name="FIELD_22">32</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Yonge St</SimpleData>
+		<SimpleData name="FIELD_25">32</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">68</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3872300479029,43.6704004360083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1824</SimpleData>
+		<SimpleData name="FIELD_2">10430677</SimpleData>
+		<SimpleData name="FIELD_3">2000</SimpleData>
+		<SimpleData name="FIELD_4">Yonge St</SimpleData>
+		<SimpleData name="FIELD_5">2000 Yonge St</SimpleData>
+		<SimpleData name="FIELD_6">M4S 1Z7</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto-St. Paul's (12)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">10430667</SimpleData>
+		<SimpleData name="FIELD_13">2000</SimpleData>
+		<SimpleData name="FIELD_17">4733</SimpleData>
+		<SimpleData name="FIELD_22">37</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Glebe Rd W</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">69</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3973815441376,43.7004743321706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1825</SimpleData>
+		<SimpleData name="FIELD_2">20111213</SimpleData>
+		<SimpleData name="FIELD_3">22</SimpleData>
+		<SimpleData name="FIELD_4">Fort York Blvd</SimpleData>
+		<SimpleData name="FIELD_5">22 Fort York Blvd</SimpleData>
+		<SimpleData name="FIELD_6">M5V 3Z2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">112001</SimpleData>
+		<SimpleData name="FIELD_12">20035046</SimpleData>
+		<SimpleData name="FIELD_13">22</SimpleData>
+		<SimpleData name="FIELD_17">15826</SimpleData>
+		<SimpleData name="FIELD_22">43</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Fort York Blvd</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2017</SimpleData>
+		<SimpleData name="FIELD_30">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.394196399307,43.6405581341619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1826</SimpleData>
+		<SimpleData name="FIELD_2">9942213</SimpleData>
+		<SimpleData name="FIELD_3">268</SimpleData>
+		<SimpleData name="FIELD_4">College St</SimpleData>
+		<SimpleData name="FIELD_5">268 College St</SimpleData>
+		<SimpleData name="FIELD_6">M5T 1S1</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">14022731</SimpleData>
+		<SimpleData name="FIELD_13">268</SimpleData>
+		<SimpleData name="FIELD_17">9765</SimpleData>
+		<SimpleData name="FIELD_22">49</SimpleData>
+		<SimpleData name="FIELD_23">Bike Corral</SimpleData>
+		<SimpleData name="FIELD_24">College St</SimpleData>
+		<SimpleData name="FIELD_25">14</SimpleData>
+		<SimpleData name="FIELD_26">5.500000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_28">NO</SimpleData>
+		<SimpleData name="FIELD_30">71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4005149553641,43.6581487248445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1827</SimpleData>
+		<SimpleData name="FIELD_2">6292601</SimpleData>
+		<SimpleData name="FIELD_3">3530</SimpleData>
+		<SimpleData name="FIELD_4">Sheppard Ave E</SimpleData>
+		<SimpleData name="FIELD_5">3530 Sheppard Ave E</SimpleData>
+		<SimpleData name="FIELD_6">M1T 3K7</SimpleData>
+		<SimpleData name="FIELD_7">Scarborough</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Scarborough-Agincourt (22)</SimpleData>
+		<SimpleData name="FIELD_10">Holy Spirit Catholic School</SimpleData>
+		<SimpleData name="FIELD_11">102003</SimpleData>
+		<SimpleData name="FIELD_12">6292597</SimpleData>
+		<SimpleData name="FIELD_13">3530</SimpleData>
+		<SimpleData name="FIELD_17">6698</SimpleData>
+		<SimpleData name="FIELD_22">56</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Sheppard Ave E</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2014</SimpleData>
+		<SimpleData name="FIELD_30">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.303096242086,43.7812077532627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1828</SimpleData>
+		<SimpleData name="FIELD_2">10223670</SimpleData>
+		<SimpleData name="FIELD_3">441</SimpleData>
+		<SimpleData name="FIELD_4">King St W</SimpleData>
+		<SimpleData name="FIELD_5">441 King St W</SimpleData>
+		<SimpleData name="FIELD_6">M5V 1K4</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">10223667</SimpleData>
+		<SimpleData name="FIELD_13">441</SimpleData>
+		<SimpleData name="FIELD_17">3780</SimpleData>
+		<SimpleData name="FIELD_22">68</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">King St W</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">73</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3956715228578,43.6451488396696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1829</SimpleData>
+		<SimpleData name="FIELD_2">12107167</SimpleData>
+		<SimpleData name="FIELD_3">490</SimpleData>
+		<SimpleData name="FIELD_4">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_5">490 Bloor St W</SimpleData>
+		<SimpleData name="FIELD_6">M5S 1X8</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">12107157</SimpleData>
+		<SimpleData name="FIELD_13">490</SimpleData>
+		<SimpleData name="FIELD_17">458</SimpleData>
+		<SimpleData name="FIELD_22">73</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Albany Ave</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4097622062528,43.6656283409671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1830</SimpleData>
+		<SimpleData name="FIELD_2">772852</SimpleData>
+		<SimpleData name="FIELD_3">509</SimpleData>
+		<SimpleData name="FIELD_4">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_5">509 Bloor St W</SimpleData>
+		<SimpleData name="FIELD_6">M5S 1Y2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">107010</SimpleData>
+		<SimpleData name="FIELD_12">1142919</SimpleData>
+		<SimpleData name="FIELD_13">509</SimpleData>
+		<SimpleData name="FIELD_17">458</SimpleData>
+		<SimpleData name="FIELD_22">79</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Borden St W</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2017</SimpleData>
+		<SimpleData name="FIELD_30">75</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4083859964734,43.6654609016074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1831</SimpleData>
+		<SimpleData name="FIELD_2">8292528</SimpleData>
+		<SimpleData name="FIELD_3">666</SimpleData>
+		<SimpleData name="FIELD_4">Queen St E</SimpleData>
+		<SimpleData name="FIELD_5">666 Queen St E</SimpleData>
+		<SimpleData name="FIELD_6">M4M 1G8</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto-Danforth (14)</SimpleData>
+		<SimpleData name="FIELD_11">107010</SimpleData>
+		<SimpleData name="FIELD_12">8292524</SimpleData>
+		<SimpleData name="FIELD_13">666</SimpleData>
+		<SimpleData name="FIELD_17">4237</SimpleData>
+		<SimpleData name="FIELD_22">92</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Munro St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">76</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3515005142531,43.6586988939243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1832</SimpleData>
+		<SimpleData name="FIELD_2">7389731</SimpleData>
+		<SimpleData name="FIELD_3">71</SimpleData>
+		<SimpleData name="FIELD_4">Second St</SimpleData>
+		<SimpleData name="FIELD_5">71 Second St</SimpleData>
+		<SimpleData name="FIELD_6">M8V 2X4</SimpleData>
+		<SimpleData name="FIELD_7">Etobicoke</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Etobicoke-Lakeshore (3)</SimpleData>
+		<SimpleData name="FIELD_10">Second Street Junior Middle School</SimpleData>
+		<SimpleData name="FIELD_11">102001</SimpleData>
+		<SimpleData name="FIELD_12">7389724</SimpleData>
+		<SimpleData name="FIELD_13">71</SimpleData>
+		<SimpleData name="FIELD_17">2447</SimpleData>
+		<SimpleData name="FIELD_22">99</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Second St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4997662581739,43.6036684223915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1833</SimpleData>
+		<SimpleData name="FIELD_2">8293016</SimpleData>
+		<SimpleData name="FIELD_3">1485</SimpleData>
+		<SimpleData name="FIELD_4">Dupont St</SimpleData>
+		<SimpleData name="FIELD_5">1485 Dupont St</SimpleData>
+		<SimpleData name="FIELD_6">M6P 3S2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">14013265</SimpleData>
+		<SimpleData name="FIELD_13">1485</SimpleData>
+		<SimpleData name="FIELD_17">3343</SimpleData>
+		<SimpleData name="FIELD_22">21</SimpleData>
+		<SimpleData name="FIELD_23">Bike Corral</SimpleData>
+		<SimpleData name="FIELD_24">Campbell Ave</SimpleData>
+		<SimpleData name="FIELD_25">14</SimpleData>
+		<SimpleData name="FIELD_26">5.500000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_28">NO</SimpleData>
+		<SimpleData name="FIELD_30">78</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4501905747648,43.6657993325492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1834</SimpleData>
+		<SimpleData name="FIELD_2">828085</SimpleData>
+		<SimpleData name="FIELD_3">200</SimpleData>
+		<SimpleData name="FIELD_4">King St E</SimpleData>
+		<SimpleData name="FIELD_5">200 King St E</SimpleData>
+		<SimpleData name="FIELD_6">M5A 3W8</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_11">102007</SimpleData>
+		<SimpleData name="FIELD_12">1145266</SimpleData>
+		<SimpleData name="FIELD_13">200</SimpleData>
+		<SimpleData name="FIELD_17">3779</SimpleData>
+		<SimpleData name="FIELD_22">35</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Adelaide St E and Frederick St</SimpleData>
+		<SimpleData name="FIELD_25">16</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2017</SimpleData>
+		<SimpleData name="FIELD_30">79</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3701856618948,43.651100464233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1835</SimpleData>
+		<SimpleData name="FIELD_2">828085</SimpleData>
+		<SimpleData name="FIELD_3">200</SimpleData>
+		<SimpleData name="FIELD_4">King St E</SimpleData>
+		<SimpleData name="FIELD_5">200 King St E</SimpleData>
+		<SimpleData name="FIELD_6">M5A 3W8</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_11">102007</SimpleData>
+		<SimpleData name="FIELD_12">1145266</SimpleData>
+		<SimpleData name="FIELD_13">200</SimpleData>
+		<SimpleData name="FIELD_17">3779</SimpleData>
+		<SimpleData name="FIELD_22">34</SimpleData>
+		<SimpleData name="FIELD_23">Bike Corral</SimpleData>
+		<SimpleData name="FIELD_24">George St</SimpleData>
+		<SimpleData name="FIELD_25">14</SimpleData>
+		<SimpleData name="FIELD_26">10.000000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2014</SimpleData>
+		<SimpleData name="FIELD_28">NO</SimpleData>
+		<SimpleData name="FIELD_30">80</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3701856618948,43.651100464233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1836</SimpleData>
+		<SimpleData name="FIELD_2">772775</SimpleData>
+		<SimpleData name="FIELD_3">315</SimpleData>
+		<SimpleData name="FIELD_4">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_5">315 Bloor St W</SimpleData>
+		<SimpleData name="FIELD_6">M5S 1A3</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">102007</SimpleData>
+		<SimpleData name="FIELD_12">1142564</SimpleData>
+		<SimpleData name="FIELD_13">315</SimpleData>
+		<SimpleData name="FIELD_17">458</SimpleData>
+		<SimpleData name="FIELD_22">53</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3985624500635,43.6674469424306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1837</SimpleData>
+		<SimpleData name="FIELD_2">7466874</SimpleData>
+		<SimpleData name="FIELD_3">516</SimpleData>
+		<SimpleData name="FIELD_4">Glenlake Ave</SimpleData>
+		<SimpleData name="FIELD_5">516 Glenlake Ave</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Parkdale-High Park (4)</SimpleData>
+		<SimpleData name="FIELD_10">Glenlake Square</SimpleData>
+		<SimpleData name="FIELD_11">106001</SimpleData>
+		<SimpleData name="FIELD_12">7466844</SimpleData>
+		<SimpleData name="FIELD_13">516</SimpleData>
+		<SimpleData name="FIELD_17">3546</SimpleData>
+		<SimpleData name="FIELD_22">81</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Glendonwynne Rd</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2017</SimpleData>
+		<SimpleData name="FIELD_30">82</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4741048220362,43.6561212464489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1838</SimpleData>
+		<SimpleData name="FIELD_2">8416838</SimpleData>
+		<SimpleData name="FIELD_3">693</SimpleData>
+		<SimpleData name="FIELD_4">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_5">693 Bloor St W</SimpleData>
+		<SimpleData name="FIELD_6">M6G 1L5</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">8416823</SimpleData>
+		<SimpleData name="FIELD_13">693</SimpleData>
+		<SimpleData name="FIELD_17">458</SimpleData>
+		<SimpleData name="FIELD_22">96</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Clinton St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">83</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4173511984097,43.6635409715405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1839</SimpleData>
+		<SimpleData name="FIELD_2">828221</SimpleData>
+		<SimpleData name="FIELD_3">150</SimpleData>
+		<SimpleData name="FIELD_4">King St W</SimpleData>
+		<SimpleData name="FIELD_5">150 King St W</SimpleData>
+		<SimpleData name="FIELD_6">M5H 1J9</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">104008</SimpleData>
+		<SimpleData name="FIELD_12">1145855</SimpleData>
+		<SimpleData name="FIELD_13">150</SimpleData>
+		<SimpleData name="FIELD_17">3780</SimpleData>
+		<SimpleData name="FIELD_22">23</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">University Ave</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2017</SimpleData>
+		<SimpleData name="FIELD_30">84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3842322745632,43.6482142784795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1840</SimpleData>
+		<SimpleData name="FIELD_2">30019115</SimpleData>
+		<SimpleData name="FIELD_3">35D</SimpleData>
+		<SimpleData name="FIELD_4">Bathurst St</SimpleData>
+		<SimpleData name="FIELD_5">35D Bathurst St</SimpleData>
+		<SimpleData name="FIELD_6">M5V 2P2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">112001</SimpleData>
+		<SimpleData name="FIELD_12">8457361</SimpleData>
+		<SimpleData name="FIELD_13">35</SimpleData>
+		<SimpleData name="FIELD_14">D</SimpleData>
+		<SimpleData name="FIELD_17">436</SimpleData>
+		<SimpleData name="FIELD_22">58</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Bathurst St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4017249691284,43.642225715835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1841</SimpleData>
+		<SimpleData name="FIELD_2">367443</SimpleData>
+		<SimpleData name="FIELD_3">71</SimpleData>
+		<SimpleData name="FIELD_4">New Forest Sq</SimpleData>
+		<SimpleData name="FIELD_5">71 New Forest Sq</SimpleData>
+		<SimpleData name="FIELD_6">M1V 2Z6</SimpleData>
+		<SimpleData name="FIELD_7">Scarborough</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Scarborough-Agincourt (22)</SimpleData>
+		<SimpleData name="FIELD_11">100001</SimpleData>
+		<SimpleData name="FIELD_12">20050441</SimpleData>
+		<SimpleData name="FIELD_13">71</SimpleData>
+		<SimpleData name="FIELD_17">9497</SimpleData>
+		<SimpleData name="FIELD_22">98</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Steeles Ave E</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">86</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3074473906934,43.8230331061332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1842</SimpleData>
+		<SimpleData name="FIELD_2">14199241</SimpleData>
+		<SimpleData name="FIELD_3">11</SimpleData>
+		<SimpleData name="FIELD_4">Charlotte St</SimpleData>
+		<SimpleData name="FIELD_5">11 Charlotte St</SimpleData>
+		<SimpleData name="FIELD_6">M5V 0M6</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">14025593</SimpleData>
+		<SimpleData name="FIELD_13">11</SimpleData>
+		<SimpleData name="FIELD_17">3147</SimpleData>
+		<SimpleData name="FIELD_22">10</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Charlotte St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2017</SimpleData>
+		<SimpleData name="FIELD_30">87</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3936698784778,43.6463778424247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1843</SimpleData>
+		<SimpleData name="FIELD_2">11272519</SimpleData>
+		<SimpleData name="FIELD_3">1560</SimpleData>
+		<SimpleData name="FIELD_4">Yonge St</SimpleData>
+		<SimpleData name="FIELD_5">1560 Yonge St</SimpleData>
+		<SimpleData name="FIELD_6">M4T 2S9</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto-St. Paul's (12)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">14242419</SimpleData>
+		<SimpleData name="FIELD_13">1560</SimpleData>
+		<SimpleData name="FIELD_17">4733</SimpleData>
+		<SimpleData name="FIELD_22">24</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Delisle Ave</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">88</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3951269012401,43.6896783530003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1844</SimpleData>
+		<SimpleData name="FIELD_2">772899</SimpleData>
+		<SimpleData name="FIELD_3">612</SimpleData>
+		<SimpleData name="FIELD_4">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_5">612 Bloor St W</SimpleData>
+		<SimpleData name="FIELD_6">M6G 1K7</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">107010</SimpleData>
+		<SimpleData name="FIELD_12">1143160</SimpleData>
+		<SimpleData name="FIELD_13">612</SimpleData>
+		<SimpleData name="FIELD_17">458</SimpleData>
+		<SimpleData name="FIELD_22">88</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">0</SimpleData>
+		<SimpleData name="FIELD_30">89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4138388158142,43.6647341700049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1845</SimpleData>
+		<SimpleData name="FIELD_2">773157</SimpleData>
+		<SimpleData name="FIELD_3">1032</SimpleData>
+		<SimpleData name="FIELD_4">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_5">1032 Bloor St W</SimpleData>
+		<SimpleData name="FIELD_6">M6H 1M2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">107010</SimpleData>
+		<SimpleData name="FIELD_12">1143789</SimpleData>
+		<SimpleData name="FIELD_13">1032</SimpleData>
+		<SimpleData name="FIELD_17">458</SimpleData>
+		<SimpleData name="FIELD_22">7</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Salem Ave</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2015</SimpleData>
+		<SimpleData name="FIELD_30">90</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4316062598435,43.6609569224605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1846</SimpleData>
+		<SimpleData name="FIELD_2">20364734</SimpleData>
+		<SimpleData name="FIELD_3">157</SimpleData>
+		<SimpleData name="FIELD_4">Dan Leckie Way</SimpleData>
+		<SimpleData name="FIELD_5">157 Dan Leckie Way</SimpleData>
+		<SimpleData name="FIELD_6">M5V 4A8</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">100001</SimpleData>
+		<SimpleData name="FIELD_12">20364648</SimpleData>
+		<SimpleData name="FIELD_13">157</SimpleData>
+		<SimpleData name="FIELD_17">17007</SimpleData>
+		<SimpleData name="FIELD_22">25</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Dan Leckie Way</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">91</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3980055327274,43.6398931179215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1847</SimpleData>
+		<SimpleData name="FIELD_2">7792268</SimpleData>
+		<SimpleData name="FIELD_3">595</SimpleData>
+		<SimpleData name="FIELD_4">Bay St</SimpleData>
+		<SimpleData name="FIELD_5">595 Bay St</SimpleData>
+		<SimpleData name="FIELD_6">M5G 2C2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">104008</SimpleData>
+		<SimpleData name="FIELD_12">7792266</SimpleData>
+		<SimpleData name="FIELD_13">595</SimpleData>
+		<SimpleData name="FIELD_17">2962</SimpleData>
+		<SimpleData name="FIELD_22">86</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Dundas St W</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3832978278682,43.6562124477002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1848</SimpleData>
+		<SimpleData name="FIELD_2">14210933</SimpleData>
+		<SimpleData name="FIELD_3">5</SimpleData>
+		<SimpleData name="FIELD_4">Salem Ave</SimpleData>
+		<SimpleData name="FIELD_5">5 Salem Ave</SimpleData>
+		<SimpleData name="FIELD_6">M6H 3C2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">14011464</SimpleData>
+		<SimpleData name="FIELD_13">5</SimpleData>
+		<SimpleData name="FIELD_17">4354</SimpleData>
+		<SimpleData name="FIELD_22">75</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Salem Ave</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2014</SimpleData>
+		<SimpleData name="FIELD_30">93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4315601023945,43.6608451251421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1849</SimpleData>
+		<SimpleData name="FIELD_2">14210930</SimpleData>
+		<SimpleData name="FIELD_3">1036</SimpleData>
+		<SimpleData name="FIELD_4">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_5">1036 Bloor St W</SimpleData>
+		<SimpleData name="FIELD_6">M6H 1M3</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">1143821</SimpleData>
+		<SimpleData name="FIELD_13">1036</SimpleData>
+		<SimpleData name="FIELD_17">458</SimpleData>
+		<SimpleData name="FIELD_22">9</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2014</SimpleData>
+		<SimpleData name="FIELD_30">94</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4319383641102,43.6608213173929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1850</SimpleData>
+		<SimpleData name="FIELD_2">8417835</SimpleData>
+		<SimpleData name="FIELD_3">1</SimpleData>
+		<SimpleData name="FIELD_4">Albany Ave</SimpleData>
+		<SimpleData name="FIELD_5">1 Albany Ave</SimpleData>
+		<SimpleData name="FIELD_6">M5R 3C2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">14014600</SimpleData>
+		<SimpleData name="FIELD_13">1</SimpleData>
+		<SimpleData name="FIELD_17">2859</SimpleData>
+		<SimpleData name="FIELD_22">1</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Bloor St W</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2017</SimpleData>
+		<SimpleData name="FIELD_30">95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4099385908683,43.6657201946865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1851</SimpleData>
+		<SimpleData name="FIELD_2">20362129</SimpleData>
+		<SimpleData name="FIELD_3">163</SimpleData>
+		<SimpleData name="FIELD_4">Dan Leckie Way</SimpleData>
+		<SimpleData name="FIELD_5">163 Dan Leckie Way</SimpleData>
+		<SimpleData name="FIELD_6">M5V 4A8</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">100001</SimpleData>
+		<SimpleData name="FIELD_12">20364648</SimpleData>
+		<SimpleData name="FIELD_13">163</SimpleData>
+		<SimpleData name="FIELD_17">17007</SimpleData>
+		<SimpleData name="FIELD_22">27</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Iceboat Ter</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">96</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3980686081508,43.6400541998147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1852</SimpleData>
+		<SimpleData name="FIELD_2">7641709</SimpleData>
+		<SimpleData name="FIELD_3">26</SimpleData>
+		<SimpleData name="FIELD_4">Dundas St E</SimpleData>
+		<SimpleData name="FIELD_5">26 Dundas St E</SimpleData>
+		<SimpleData name="FIELD_6">M5B 2L6</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">7641747</SimpleData>
+		<SimpleData name="FIELD_13">26</SimpleData>
+		<SimpleData name="FIELD_17">3334</SimpleData>
+		<SimpleData name="FIELD_22">47</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Victoria St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2017</SimpleData>
+		<SimpleData name="FIELD_30">97</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3799775246031,43.6565175761293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1853</SimpleData>
+		<SimpleData name="FIELD_2">13968174</SimpleData>
+		<SimpleData name="FIELD_3">38</SimpleData>
+		<SimpleData name="FIELD_4">Orchard View Blvd</SimpleData>
+		<SimpleData name="FIELD_5">38 Orchard View Blvd</SimpleData>
+		<SimpleData name="FIELD_6">M4R 2G3</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Eglinton-Lawrence (8)</SimpleData>
+		<SimpleData name="FIELD_11">107009</SimpleData>
+		<SimpleData name="FIELD_12">10258454</SimpleData>
+		<SimpleData name="FIELD_13">38</SimpleData>
+		<SimpleData name="FIELD_17">4111</SimpleData>
+		<SimpleData name="FIELD_22">62</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Yonge St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">98</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3996801445734,43.708216713311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1854</SimpleData>
+		<SimpleData name="FIELD_2">7929674</SimpleData>
+		<SimpleData name="FIELD_3">200</SimpleData>
+		<SimpleData name="FIELD_4">King St W</SimpleData>
+		<SimpleData name="FIELD_5">200 King St W</SimpleData>
+		<SimpleData name="FIELD_6">M5H 3T4</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">104008</SimpleData>
+		<SimpleData name="FIELD_12">7929673</SimpleData>
+		<SimpleData name="FIELD_13">200</SimpleData>
+		<SimpleData name="FIELD_17">3780</SimpleData>
+		<SimpleData name="FIELD_22">36</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">University Ave</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">99</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3857204176048,43.6479052737837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1855</SimpleData>
+		<SimpleData name="FIELD_2">3120556</SimpleData>
+		<SimpleData name="FIELD_3">1030</SimpleData>
+		<SimpleData name="FIELD_4">King St W</SimpleData>
+		<SimpleData name="FIELD_5">1030 King St W</SimpleData>
+		<SimpleData name="FIELD_6">M6K 0B4</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">113001</SimpleData>
+		<SimpleData name="FIELD_12">3155022</SimpleData>
+		<SimpleData name="FIELD_13">1030</SimpleData>
+		<SimpleData name="FIELD_17">3780</SimpleData>
+		<SimpleData name="FIELD_22">6</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">King St W</SimpleData>
+		<SimpleData name="FIELD_25">16</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4157586754681,43.6415808536674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1856</SimpleData>
+		<SimpleData name="FIELD_2">10154425</SimpleData>
+		<SimpleData name="FIELD_3">1</SimpleData>
+		<SimpleData name="FIELD_4">St Clair Ave E</SimpleData>
+		<SimpleData name="FIELD_5">1 St Clair Ave E</SimpleData>
+		<SimpleData name="FIELD_6">M4T 2V7</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto-St. Paul's (12)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">10154405</SimpleData>
+		<SimpleData name="FIELD_13">1</SimpleData>
+		<SimpleData name="FIELD_17">339</SimpleData>
+		<SimpleData name="FIELD_22">2</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Yonge St</SimpleData>
+		<SimpleData name="FIELD_25">24</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3935708744087,43.6879111568366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1857</SimpleData>
+		<SimpleData name="FIELD_2">7939998</SimpleData>
+		<SimpleData name="FIELD_3">10</SimpleData>
+		<SimpleData name="FIELD_4">Linnsmore Cres</SimpleData>
+		<SimpleData name="FIELD_5">10 Linnsmore Cres</SimpleData>
+		<SimpleData name="FIELD_6">M4J 4J6</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto-Danforth (14)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">14023269</SimpleData>
+		<SimpleData name="FIELD_13">10</SimpleData>
+		<SimpleData name="FIELD_17">11375</SimpleData>
+		<SimpleData name="FIELD_22">3</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Linnsmore Cr</SimpleData>
+		<SimpleData name="FIELD_25">18</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.330292170892,43.6825720317076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1858</SimpleData>
+		<SimpleData name="FIELD_2">20140670</SimpleData>
+		<SimpleData name="FIELD_3">101</SimpleData>
+		<SimpleData name="FIELD_4">Sherbourne St</SimpleData>
+		<SimpleData name="FIELD_5">101 Sherbourne St</SimpleData>
+		<SimpleData name="FIELD_6">M5A 2R3</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_11">112001</SimpleData>
+		<SimpleData name="FIELD_12">1144819</SimpleData>
+		<SimpleData name="FIELD_13">101</SimpleData>
+		<SimpleData name="FIELD_17">4391</SimpleData>
+		<SimpleData name="FIELD_22">5</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Richmond St E</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3689116973164,43.6536621558492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1859</SimpleData>
+		<SimpleData name="FIELD_2">7553175</SimpleData>
+		<SimpleData name="FIELD_3">1184</SimpleData>
+		<SimpleData name="FIELD_4">Queen St W</SimpleData>
+		<SimpleData name="FIELD_5">1184 Queen St W</SimpleData>
+		<SimpleData name="FIELD_6">M6J 1J5</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">7553178</SimpleData>
+		<SimpleData name="FIELD_13">1184</SimpleData>
+		<SimpleData name="FIELD_17">4238</SimpleData>
+		<SimpleData name="FIELD_22">12</SimpleData>
+		<SimpleData name="FIELD_23">Bike Corral</SimpleData>
+		<SimpleData name="FIELD_24">Northcote Ave</SimpleData>
+		<SimpleData name="FIELD_25">14</SimpleData>
+		<SimpleData name="FIELD_26">5.500000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2013</SimpleData>
+		<SimpleData name="FIELD_28">NO</SimpleData>
+		<SimpleData name="FIELD_30">104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4257846968092,43.6430284991501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1860</SimpleData>
+		<SimpleData name="FIELD_2">30072958</SimpleData>
+		<SimpleData name="FIELD_3">1190</SimpleData>
+		<SimpleData name="FIELD_4">Dundas St E</SimpleData>
+		<SimpleData name="FIELD_5">1190 Dundas St E</SimpleData>
+		<SimpleData name="FIELD_6">M4M 0C5</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto-Danforth (14)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">7576995</SimpleData>
+		<SimpleData name="FIELD_13">1190</SimpleData>
+		<SimpleData name="FIELD_17">3334</SimpleData>
+		<SimpleData name="FIELD_22">13</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Carlaw Ave</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">105</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3410336455927,43.6652675256312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1861</SimpleData>
+		<SimpleData name="FIELD_2">8408615</SimpleData>
+		<SimpleData name="FIELD_3">12</SimpleData>
+		<SimpleData name="FIELD_4">Madison Ave</SimpleData>
+		<SimpleData name="FIELD_5">12 Madison Ave</SimpleData>
+		<SimpleData name="FIELD_6">M5R 2S1</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">University-Rosedale (11)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">30104520</SimpleData>
+		<SimpleData name="FIELD_13">12</SimpleData>
+		<SimpleData name="FIELD_17">3896</SimpleData>
+		<SimpleData name="FIELD_22">15</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Madison Ave</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4033213402764,43.6677591999227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1862</SimpleData>
+		<SimpleData name="FIELD_2">7570973</SimpleData>
+		<SimpleData name="FIELD_3">12</SimpleData>
+		<SimpleData name="FIELD_4">Ossington Ave</SimpleData>
+		<SimpleData name="FIELD_5">12 Ossington Ave</SimpleData>
+		<SimpleData name="FIELD_6">M6J 2Y7</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">107010</SimpleData>
+		<SimpleData name="FIELD_12">7570969</SimpleData>
+		<SimpleData name="FIELD_13">12</SimpleData>
+		<SimpleData name="FIELD_17">4125</SimpleData>
+		<SimpleData name="FIELD_22">16</SimpleData>
+		<SimpleData name="FIELD_23">Angled Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Ossington Ave</SimpleData>
+		<SimpleData name="FIELD_25">5</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4193781682054,43.6444593301141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1863</SimpleData>
+		<SimpleData name="FIELD_2">773911</SimpleData>
+		<SimpleData name="FIELD_3">122</SimpleData>
+		<SimpleData name="FIELD_4">Bond St</SimpleData>
+		<SimpleData name="FIELD_5">122 Bond St</SimpleData>
+		<SimpleData name="FIELD_6">M5B 1X8</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_11">102007</SimpleData>
+		<SimpleData name="FIELD_12">14021112</SimpleData>
+		<SimpleData name="FIELD_13">122</SimpleData>
+		<SimpleData name="FIELD_17">3029</SimpleData>
+		<SimpleData name="FIELD_22">17</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Bond St</SimpleData>
+		<SimpleData name="FIELD_25">16</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">108</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3791387851816,43.6573781216217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1864</SimpleData>
+		<SimpleData name="FIELD_2">773913</SimpleData>
+		<SimpleData name="FIELD_3">137</SimpleData>
+		<SimpleData name="FIELD_4">Bond St</SimpleData>
+		<SimpleData name="FIELD_5">137 Bond St</SimpleData>
+		<SimpleData name="FIELD_6">M5B 1Y2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Toronto Centre (13)</SimpleData>
+		<SimpleData name="FIELD_11">102008</SimpleData>
+		<SimpleData name="FIELD_12">14021112</SimpleData>
+		<SimpleData name="FIELD_13">137</SimpleData>
+		<SimpleData name="FIELD_17">3029</SimpleData>
+		<SimpleData name="FIELD_22">19</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Dalhousie St</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3787181688475,43.6578227118334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1865</SimpleData>
+		<SimpleData name="FIELD_2">7930799</SimpleData>
+		<SimpleData name="FIELD_3">124</SimpleData>
+		<SimpleData name="FIELD_4">Spadina Ave</SimpleData>
+		<SimpleData name="FIELD_5">124 Spadina Ave</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">7930670</SimpleData>
+		<SimpleData name="FIELD_13">124</SimpleData>
+		<SimpleData name="FIELD_17">4426</SimpleData>
+		<SimpleData name="FIELD_22">18</SimpleData>
+		<SimpleData name="FIELD_23">Bike Corral</SimpleData>
+		<SimpleData name="FIELD_24">Camden St</SimpleData>
+		<SimpleData name="FIELD_25">28</SimpleData>
+		<SimpleData name="FIELD_26">12.000000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2015</SimpleData>
+		<SimpleData name="FIELD_28">NO</SimpleData>
+		<SimpleData name="FIELD_30">110</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3963385440912,43.6471839084895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1866</SimpleData>
+		<SimpleData name="FIELD_2">14069353</SimpleData>
+		<SimpleData name="FIELD_3">192</SimpleData>
+		<SimpleData name="FIELD_4">Spadina Ave</SimpleData>
+		<SimpleData name="FIELD_5">192 Spadina Ave</SimpleData>
+		<SimpleData name="FIELD_6">M5T 2C2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">104008</SimpleData>
+		<SimpleData name="FIELD_12">10494196</SimpleData>
+		<SimpleData name="FIELD_13">192</SimpleData>
+		<SimpleData name="FIELD_17">4426</SimpleData>
+		<SimpleData name="FIELD_22">29</SimpleData>
+		<SimpleData name="FIELD_23">Bike Corral</SimpleData>
+		<SimpleData name="FIELD_24">Spadina Ave</SimpleData>
+		<SimpleData name="FIELD_25">14</SimpleData>
+		<SimpleData name="FIELD_26">5.500000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2015</SimpleData>
+		<SimpleData name="FIELD_28">NO</SimpleData>
+		<SimpleData name="FIELD_30">111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3976488984162,43.6499378951888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1867</SimpleData>
+		<SimpleData name="FIELD_2">14199528</SimpleData>
+		<SimpleData name="FIELD_3">196</SimpleData>
+		<SimpleData name="FIELD_4">Spadina Ave</SimpleData>
+		<SimpleData name="FIELD_5">196 Spadina Ave</SimpleData>
+		<SimpleData name="FIELD_6">M5T 2C2</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">10494196</SimpleData>
+		<SimpleData name="FIELD_13">196</SimpleData>
+		<SimpleData name="FIELD_17">4426</SimpleData>
+		<SimpleData name="FIELD_22">30</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Spadina Ave</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">112</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3973706520018,43.6501245499884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1868</SimpleData>
+		<SimpleData name="FIELD_2">9980057</SimpleData>
+		<SimpleData name="FIELD_3">1978</SimpleData>
+		<SimpleData name="FIELD_4">Queen St E</SimpleData>
+		<SimpleData name="FIELD_5">1978 Queen St E</SimpleData>
+		<SimpleData name="FIELD_6">M4L 1H8</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Beaches-East York (19)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">9980046</SimpleData>
+		<SimpleData name="FIELD_13">1978</SimpleData>
+		<SimpleData name="FIELD_17">4237</SimpleData>
+		<SimpleData name="FIELD_22">31</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Waverley Rd</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2017</SimpleData>
+		<SimpleData name="FIELD_30">113</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3011363154956,43.6699728610104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1869</SimpleData>
+		<SimpleData name="FIELD_2">9468140</SimpleData>
+		<SimpleData name="FIELD_3">20</SimpleData>
+		<SimpleData name="FIELD_4">Northcote Ave</SimpleData>
+		<SimpleData name="FIELD_5">20 Northcote Ave</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Davenport (9)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">14018614</SimpleData>
+		<SimpleData name="FIELD_13">20</SimpleData>
+		<SimpleData name="FIELD_17">4070</SimpleData>
+		<SimpleData name="FIELD_22">33</SimpleData>
+		<SimpleData name="FIELD_23">Bike Shelter</SimpleData>
+		<SimpleData name="FIELD_24">Northcote Ave</SimpleData>
+		<SimpleData name="FIELD_25">10</SimpleData>
+		<SimpleData name="FIELD_26">3.000000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2015</SimpleData>
+		<SimpleData name="FIELD_30">114</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4264347476873,43.6431255580551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1870</SimpleData>
+		<SimpleData name="FIELD_2">14207146</SimpleData>
+		<SimpleData name="FIELD_3">205</SimpleData>
+		<SimpleData name="FIELD_4">Spadina Ave</SimpleData>
+		<SimpleData name="FIELD_5">205 Spadina Ave</SimpleData>
+		<SimpleData name="FIELD_6">M5T 2C7</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">115001</SimpleData>
+		<SimpleData name="FIELD_12">10494196</SimpleData>
+		<SimpleData name="FIELD_13">205</SimpleData>
+		<SimpleData name="FIELD_17">4426</SimpleData>
+		<SimpleData name="FIELD_22">38</SimpleData>
+		<SimpleData name="FIELD_23">Bike Corral</SimpleData>
+		<SimpleData name="FIELD_24">Spadina Ave</SimpleData>
+		<SimpleData name="FIELD_25">14</SimpleData>
+		<SimpleData name="FIELD_26">11.000000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2010</SimpleData>
+		<SimpleData name="FIELD_28">Y</SimpleData>
+		<SimpleData name="FIELD_30">115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3966190321934,43.6504254363213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1871</SimpleData>
+		<SimpleData name="FIELD_2">11382307</SimpleData>
+		<SimpleData name="FIELD_3">777</SimpleData>
+		<SimpleData name="FIELD_4">Victoria Park Ave</SimpleData>
+		<SimpleData name="FIELD_5">777 Victoria Park Ave</SimpleData>
+		<SimpleData name="FIELD_7">Scarborough</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Scarborough Southwest (20)</SimpleData>
+		<SimpleData name="FIELD_11">108001</SimpleData>
+		<SimpleData name="FIELD_12">11382305</SimpleData>
+		<SimpleData name="FIELD_13">777</SimpleData>
+		<SimpleData name="FIELD_17">370</SimpleData>
+		<SimpleData name="FIELD_22">103</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">Victoria Park Ave</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">0</SimpleData>
+		<SimpleData name="FIELD_30">116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2891570511807,43.6945435700427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#highcapacitybikeparking">
+		<SimpleData name="FIELD_1">1872</SimpleData>
+		<SimpleData name="FIELD_2">30025064</SimpleData>
+		<SimpleData name="FIELD_3">78</SimpleData>
+		<SimpleData name="FIELD_4">Tecumseth St</SimpleData>
+		<SimpleData name="FIELD_5">78 Tecumseth St</SimpleData>
+		<SimpleData name="FIELD_6">M5V 0A9</SimpleData>
+		<SimpleData name="FIELD_7">former Toronto</SimpleData>
+		<SimpleData name="FIELD_8">Toronto</SimpleData>
+		<SimpleData name="FIELD_9">Spadina-Fort York (10)</SimpleData>
+		<SimpleData name="FIELD_11">100002</SimpleData>
+		<SimpleData name="FIELD_12">20053421</SimpleData>
+		<SimpleData name="FIELD_13">78</SimpleData>
+		<SimpleData name="FIELD_17">4534</SimpleData>
+		<SimpleData name="FIELD_22">104</SimpleData>
+		<SimpleData name="FIELD_23">Bike Rack</SimpleData>
+		<SimpleData name="FIELD_24">King St W</SimpleData>
+		<SimpleData name="FIELD_25">8</SimpleData>
+		<SimpleData name="FIELD_26">2.900000000000000</SimpleData>
+		<SimpleData name="FIELD_27">2016</SimpleData>
+		<SimpleData name="FIELD_30">117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4054414221864,43.6430480473063</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
