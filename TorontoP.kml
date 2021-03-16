@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TorontoP" id="TorontoP">
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="GEO_ID" type="float"></SimpleField>
+	<SimpleField name="TYPE_DESC" type="string"></SimpleField>
+	<SimpleField name="SCODE_NAME" type="string"></SimpleField>
+	<SimpleField name="LCODE_NAME" type="string"></SimpleField>
+	<SimpleField name="Area" type="float"></SimpleField>
+	<SimpleField name="POLY_AREA" type="float"></SimpleField>
+	<SimpleField name="AREA_GEO" type="float"></SimpleField>
+	<SimpleField name="CENTROID_X" type="float"></SimpleField>
+	<SimpleField name="CENTROID_Y" type="float"></SimpleField>
+	<SimpleField name="ORIG_FID" type="float"></SimpleField>
+</Schema>
+<Folder><name>TorontoP</name>
+  <Placemark>
+	<name>ROUGE PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="GEO_ID">84.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="LCODE_NAME">355346</SimpleData>
+		<SimpleData name="Area">746766</SimpleData>
+		<SimpleData name="POLY_AREA">746766.47697199997</SimpleData>
+		<SimpleData name="AREA_GEO">746963.21349800006</SimpleData>
+		<SimpleData name="CENTROID_X">647761.40015999996</SimpleData>
+		<SimpleData name="CENTROID_Y">4854239.53981999960</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.1623548667856,43.826459537643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EAST DON PARKLAND</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4308603</SimpleData>
+		<SimpleData name="GEO_ID">312.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">312</SimpleData>
+		<SimpleData name="LCODE_NAME">312</SimpleData>
+		<SimpleData name="Area">1587936</SimpleData>
+		<SimpleData name="POLY_AREA">1587936.27227999992</SimpleData>
+		<SimpleData name="AREA_GEO">1588539.04074999993</SimpleData>
+		<SimpleData name="CENTROID_X">630736.37660700001</SimpleData>
+		<SimpleData name="CENTROID_Y">4849518.85833000019</SimpleData>
+		<SimpleData name="ORIG_FID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3751505611898,43.7871806251472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ISLINGTON GOLF CLUB</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">931</SimpleData>
+		<SimpleData name="GEO_ID">931.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="LCODE_NAME">5006</SimpleData>
+		<SimpleData name="Area">514041</SimpleData>
+		<SimpleData name="POLY_AREA">514040.51005300001</SimpleData>
+		<SimpleData name="AREA_GEO">514275.22194000002</SimpleData>
+		<SimpleData name="CENTROID_X">618176.32106100000</SimpleData>
+		<SimpleData name="CENTROID_Y">4834462.57469000015</SimpleData>
+		<SimpleData name="ORIG_FID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.5345069727115,43.6537715819125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ST. GEORGE'S GOLF AND COUNTRY CLUB</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">927</SimpleData>
+		<SimpleData name="GEO_ID">927.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="LCODE_NAME">5013</SimpleData>
+		<SimpleData name="Area">611557</SimpleData>
+		<SimpleData name="POLY_AREA">611556.58420499996</SimpleData>
+		<SimpleData name="AREA_GEO">611834.85395999998</SimpleData>
+		<SimpleData name="CENTROID_X">618490.89746799995</SimpleData>
+		<SimpleData name="CENTROID_Y">4836675.06465000007</SimpleData>
+		<SimpleData name="ORIG_FID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.5301212850134,43.6736362971022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DONALDA CLUB</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">2081</SimpleData>
+		<SimpleData name="GEO_ID">2081.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="LCODE_NAME">5003</SimpleData>
+		<SimpleData name="Area">692477</SimpleData>
+		<SimpleData name="POLY_AREA">692477.24469399999</SimpleData>
+		<SimpleData name="AREA_GEO">692727.35661000002</SimpleData>
+		<SimpleData name="CENTROID_X">633631.37644499994</SimpleData>
+		<SimpleData name="CENTROID_Y">4845275.27709999960</SimpleData>
+		<SimpleData name="ORIG_FID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3402416775538,43.7484709025602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DOWNSVIEW PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">976</SimpleData>
+		<SimpleData name="GEO_ID">976.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="LCODE_NAME">3004</SimpleData>
+		<SimpleData name="Area">785408</SimpleData>
+		<SimpleData name="POLY_AREA">785407.91385200003</SimpleData>
+		<SimpleData name="AREA_GEO">785746.70544799999</SimpleData>
+		<SimpleData name="CENTROID_X">622370.63727199996</SimpleData>
+		<SimpleData name="CENTROID_Y">4844264.30728000030</SimpleData>
+		<SimpleData name="ORIG_FID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4802843155003,43.7413166655054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ROSEDALE GOLF CLUB</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">916</SimpleData>
+		<SimpleData name="GEO_ID">916.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="LCODE_NAME">5010</SimpleData>
+		<SimpleData name="Area">629138</SimpleData>
+		<SimpleData name="POLY_AREA">629137.59708500002</SimpleData>
+		<SimpleData name="AREA_GEO">629381.06420100003</SimpleData>
+		<SimpleData name="CENTROID_X">629587.02937899996</SimpleData>
+		<SimpleData name="CENTROID_Y">4843841.70449999999</SimpleData>
+		<SimpleData name="ORIG_FID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3908000513306,43.7362865497657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OAKDALE GOLF AND COUNTRY CLUB</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">917</SimpleData>
+		<SimpleData name="GEO_ID">917.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="LCODE_NAME">5009</SimpleData>
+		<SimpleData name="Area">890988</SimpleData>
+		<SimpleData name="POLY_AREA">890988.03841299994</SimpleData>
+		<SimpleData name="AREA_GEO">891387.04749899998</SimpleData>
+		<SimpleData name="CENTROID_X">619356.26574800001</SimpleData>
+		<SimpleData name="CENTROID_Y">4843396.54975999985</SimpleData>
+		<SimpleData name="ORIG_FID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.5178998587913,43.7339976160661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WESTON GOLF AND COUNTRY CLUB</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">921</SimpleData>
+		<SimpleData name="GEO_ID">921.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="LCODE_NAME">5016</SimpleData>
+		<SimpleData name="Area">625822</SimpleData>
+		<SimpleData name="POLY_AREA">625821.54753900005</SimpleData>
+		<SimpleData name="AREA_GEO">626109.10472199996</SimpleData>
+		<SimpleData name="CENTROID_X">617642.25630799995</SimpleData>
+		<SimpleData name="CENTROID_Y">4840039.18563999981</SimpleData>
+		<SimpleData name="ORIG_FID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.539910784238,43.7040518693405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COLONEL DANFORTH PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4306474</SimpleData>
+		<SimpleData name="GEO_ID">218.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">218</SimpleData>
+		<SimpleData name="LCODE_NAME">218</SimpleData>
+		<SimpleData name="Area">549816</SimpleData>
+		<SimpleData name="POLY_AREA">549816.30076100002</SimpleData>
+		<SimpleData name="AREA_GEO">549962.82110700000</SimpleData>
+		<SimpleData name="CENTROID_X">647363.21990000003</SimpleData>
+		<SimpleData name="CENTROID_Y">4848891.97034000047</SimpleData>
+		<SimpleData name="ORIG_FID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.168775389613,43.7784151312258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MORNINGSIDE PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4306470</SimpleData>
+		<SimpleData name="GEO_ID">737.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">737</SimpleData>
+		<SimpleData name="LCODE_NAME">737</SimpleData>
+		<SimpleData name="Area">2175228</SimpleData>
+		<SimpleData name="POLY_AREA">2175227.55158999981</SimpleData>
+		<SimpleData name="AREA_GEO">2175850.20752000017</SimpleData>
+		<SimpleData name="CENTROID_X">644445.89154800004</SimpleData>
+		<SimpleData name="CENTROID_Y">4848787.11345999967</SimpleData>
+		<SimpleData name="ORIG_FID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.205038380939,43.7780464820042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G. ROSS LORD PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4306423</SimpleData>
+		<SimpleData name="GEO_ID">392.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">392</SimpleData>
+		<SimpleData name="LCODE_NAME">392</SimpleData>
+		<SimpleData name="Area">1367535</SimpleData>
+		<SimpleData name="POLY_AREA">1367534.95283999993</SimpleData>
+		<SimpleData name="AREA_GEO">1368114.04832000006</SimpleData>
+		<SimpleData name="CENTROID_X">623780.43309299997</SimpleData>
+		<SimpleData name="CENTROID_Y">4848357.10161000025</SimpleData>
+		<SimpleData name="ORIG_FID">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4618386581045,43.7779203420294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HIGH PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4305730</SimpleData>
+		<SimpleData name="GEO_ID">484.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">484</SimpleData>
+		<SimpleData name="LCODE_NAME">484</SimpleData>
+		<SimpleData name="Area">1417004</SimpleData>
+		<SimpleData name="POLY_AREA">1417004.29560999991</SimpleData>
+		<SimpleData name="AREA_GEO">1417601.90659000003</SimpleData>
+		<SimpleData name="CENTROID_X">623970.27229400002</SimpleData>
+		<SimpleData name="CENTROID_Y">4833793.09166999999</SimpleData>
+		<SimpleData name="ORIG_FID">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4628353660902,43.6468021209959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CENTENNIAL PARK - ETOBICOKE</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4305690</SimpleData>
+		<SimpleData name="GEO_ID">172.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">172</SimpleData>
+		<SimpleData name="LCODE_NAME">172</SimpleData>
+		<SimpleData name="Area">2143036</SimpleData>
+		<SimpleData name="POLY_AREA">2143035.93692999985</SimpleData>
+		<SimpleData name="AREA_GEO">2144070.72703000018</SimpleData>
+		<SimpleData name="CENTROID_X">613468.10872000002</SimpleData>
+		<SimpleData name="CENTROID_Y">4834150.62248999998</SimpleData>
+		<SimpleData name="ORIG_FID">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.5929409146491,43.6516971187005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EAST POINT PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4305711</SimpleData>
+		<SimpleData name="GEO_ID">315.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">315</SimpleData>
+		<SimpleData name="LCODE_NAME">315</SimpleData>
+		<SimpleData name="Area">548238</SimpleData>
+		<SimpleData name="POLY_AREA">548238.29955700005</SimpleData>
+		<SimpleData name="AREA_GEO">548379.84597400005</SimpleData>
+		<SimpleData name="CENTROID_X">648363.77784999995</SimpleData>
+		<SimpleData name="CENTROID_Y">4846975.50401999988</SimpleData>
+		<SimpleData name="ORIG_FID">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.156878050627,43.7609686023784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EARL BALES PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4305696</SimpleData>
+		<SimpleData name="GEO_ID">310.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">310</SimpleData>
+		<SimpleData name="LCODE_NAME">310</SimpleData>
+		<SimpleData name="Area">722900</SimpleData>
+		<SimpleData name="POLY_AREA">722899.93602200004</SimpleData>
+		<SimpleData name="AREA_GEO">723195.19363300002</SimpleData>
+		<SimpleData name="CENTROID_X">626305.40839500003</SimpleData>
+		<SimpleData name="CENTROID_Y">4845596.70213000011</SimpleData>
+		<SimpleData name="ORIG_FID">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4311230888347,43.7526488523445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ROUGE PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4306577</SimpleData>
+		<SimpleData name="GEO_ID">896.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">896</SimpleData>
+		<SimpleData name="LCODE_NAME">896</SimpleData>
+		<SimpleData name="Area">10612881</SimpleData>
+		<SimpleData name="POLY_AREA">10612880.62490000017</SimpleData>
+		<SimpleData name="AREA_GEO">10615783.94019999914</SimpleData>
+		<SimpleData name="CENTROID_X">646176.50217200001</SimpleData>
+		<SimpleData name="CENTROID_Y">4854460.36983999982</SimpleData>
+		<SimpleData name="ORIG_FID">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.1819953754053,43.828762024441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DON VALLEY GOLF COURSE</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4306219</SimpleData>
+		<SimpleData name="GEO_ID">1268.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">1268</SimpleData>
+		<SimpleData name="LCODE_NAME">1268</SimpleData>
+		<SimpleData name="Area">748101</SimpleData>
+		<SimpleData name="POLY_AREA">748100.59493799997</SimpleData>
+		<SimpleData name="AREA_GEO">748399.64637500001</SimpleData>
+		<SimpleData name="CENTROID_X">627513.89824100002</SimpleData>
+		<SimpleData name="CENTROID_Y">4845206.64974000026</SimpleData>
+		<SimpleData name="ORIG_FID">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4162103119652,43.7489311985926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ROUGE PARK - ROUGE BEACH PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4306573</SimpleData>
+		<SimpleData name="GEO_ID">898.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">898</SimpleData>
+		<SimpleData name="LCODE_NAME">898</SimpleData>
+		<SimpleData name="Area">618037</SimpleData>
+		<SimpleData name="POLY_AREA">618036.59486600000</SimpleData>
+		<SimpleData name="AREA_GEO">618185.34066099999</SimpleData>
+		<SimpleData name="CENTROID_X">650826.18791500002</SimpleData>
+		<SimpleData name="CENTROID_Y">4850879.20595999993</SimpleData>
+		<SimpleData name="ORIG_FID">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.1252058730513,43.7956008531942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WEST DEANE PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4305155</SimpleData>
+		<SimpleData name="GEO_ID">1102.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">1102</SimpleData>
+		<SimpleData name="LCODE_NAME">1102</SimpleData>
+		<SimpleData name="Area">547860</SimpleData>
+		<SimpleData name="POLY_AREA">547859.69915200002</SimpleData>
+		<SimpleData name="AREA_GEO">548117.21026500000</SimpleData>
+		<SimpleData name="CENTROID_X">615819.13881399995</SimpleData>
+		<SimpleData name="CENTROID_Y">4835557.58330999967</SimpleData>
+		<SimpleData name="ORIG_FID">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.5634940015786,43.663998954744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SUNNYBROOK PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4305353</SimpleData>
+		<SimpleData name="GEO_ID">1009.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">1009</SimpleData>
+		<SimpleData name="LCODE_NAME">1009</SimpleData>
+		<SimpleData name="Area">902925</SimpleData>
+		<SimpleData name="POLY_AREA">902925.29882200004</SimpleData>
+		<SimpleData name="AREA_GEO">903261.00206199999</SimpleData>
+		<SimpleData name="CENTROID_X">631960.66576100001</SimpleData>
+		<SimpleData name="CENTROID_Y">4842393.90868000034</SimpleData>
+		<SimpleData name="ORIG_FID">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3616915450636,43.7228373058808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TOMMY THOMPSON PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4305265</SimpleData>
+		<SimpleData name="GEO_ID">1541.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">1541</SimpleData>
+		<SimpleData name="LCODE_NAME">1541</SimpleData>
+		<SimpleData name="Area">1817798</SimpleData>
+		<SimpleData name="POLY_AREA">1817797.93870999990</SimpleData>
+		<SimpleData name="AREA_GEO">1818438.77116000000</SimpleData>
+		<SimpleData name="CENTROID_X">634771.81019700004</SimpleData>
+		<SimpleData name="CENTROID_Y">4832469.53493999969</SimpleData>
+		<SimpleData name="ORIG_FID">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3292861932833,43.6330106743543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WEST HUMBER PARKLAND</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4305370</SimpleData>
+		<SimpleData name="GEO_ID">1104.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">1104</SimpleData>
+		<SimpleData name="LCODE_NAME">1104</SimpleData>
+		<SimpleData name="Area">2543910</SimpleData>
+		<SimpleData name="POLY_AREA">2543909.78596000001</SimpleData>
+		<SimpleData name="AREA_GEO">2545105.18981999997</SimpleData>
+		<SimpleData name="CENTROID_X">615852.61191700003</SimpleData>
+		<SimpleData name="CENTROID_Y">4843366.58256999962</SimpleData>
+		<SimpleData name="ORIG_FID">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.5613990210613,43.7342836779631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TORONTO ISLANDS - HANLAN'S POINT PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4306191</SimpleData>
+		<SimpleData name="GEO_ID">1766.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">1766</SimpleData>
+		<SimpleData name="LCODE_NAME">1766</SimpleData>
+		<SimpleData name="Area">523601</SimpleData>
+		<SimpleData name="POLY_AREA">523600.87962800002</SimpleData>
+		<SimpleData name="AREA_GEO">523801.47189799999</SimpleData>
+		<SimpleData name="CENTROID_X">629896.41015699995</SimpleData>
+		<SimpleData name="CENTROID_Y">4830786.56003999989</SimpleData>
+		<SimpleData name="ORIG_FID">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3901050887007,43.6187301982323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CHARLES SAURIOL CONSERVATION AREA</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4306072</SimpleData>
+		<SimpleData name="GEO_ID">182.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">182</SimpleData>
+		<SimpleData name="LCODE_NAME">182</SimpleData>
+		<SimpleData name="Area">992140</SimpleData>
+		<SimpleData name="POLY_AREA">992140.33015099994</SimpleData>
+		<SimpleData name="AREA_GEO">992488.29178099998</SimpleData>
+		<SimpleData name="CENTROID_X">635137.85770000005</SimpleData>
+		<SimpleData name="CENTROID_Y">4842693.66848000046</SimpleData>
+		<SimpleData name="ORIG_FID">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3221874732569,43.7249630744937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HUMBER ARBORETUM</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4305335</SimpleData>
+		<SimpleData name="GEO_ID">505.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">505</SimpleData>
+		<SimpleData name="LCODE_NAME">505</SimpleData>
+		<SimpleData name="Area">982028</SimpleData>
+		<SimpleData name="POLY_AREA">982028.16040199995</SimpleData>
+		<SimpleData name="AREA_GEO">982512.31684900005</SimpleData>
+		<SimpleData name="CENTROID_X">611700.56492300006</SimpleData>
+		<SimpleData name="CENTROID_Y">4842504.49337999988</SimpleData>
+		<SimpleData name="ORIG_FID">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.6131210346242,43.7271609909432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TAYLOR CREEK PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4308606</SimpleData>
+		<SimpleData name="GEO_ID">1026.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">1026</SimpleData>
+		<SimpleData name="LCODE_NAME">1026</SimpleData>
+		<SimpleData name="Area">678791</SimpleData>
+		<SimpleData name="POLY_AREA">678790.92293300002</SimpleData>
+		<SimpleData name="AREA_GEO">679024.71739999996</SimpleData>
+		<SimpleData name="CENTROID_X">636130.64314599999</SimpleData>
+		<SimpleData name="CENTROID_Y">4839927.32208000030</SimpleData>
+		<SimpleData name="ORIG_FID">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3105664868056,43.6998842721205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LOWER DON PARKLANDS</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4308742</SimpleData>
+		<SimpleData name="GEO_ID">652.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">652</SimpleData>
+		<SimpleData name="LCODE_NAME">652</SimpleData>
+		<SimpleData name="Area">893803</SimpleData>
+		<SimpleData name="POLY_AREA">893802.84950699995</SimpleData>
+		<SimpleData name="AREA_GEO">894132.52794399997</SimpleData>
+		<SimpleData name="CENTROID_X">632360.25080100005</SimpleData>
+		<SimpleData name="CENTROID_Y">4838846.28196000028</SimpleData>
+		<SimpleData name="ORIG_FID">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3576049139697,43.6908365194625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E.T. SETON PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4308743</SimpleData>
+		<SimpleData name="GEO_ID">309.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">309</SimpleData>
+		<SimpleData name="LCODE_NAME">309</SimpleData>
+		<SimpleData name="Area">1300056</SimpleData>
+		<SimpleData name="POLY_AREA">1300056.38862999994</SimpleData>
+		<SimpleData name="AREA_GEO">1300523.41488999990</SimpleData>
+		<SimpleData name="CENTROID_X">633813.87428800005</SimpleData>
+		<SimpleData name="CENTROID_Y">4840941.48868000042</SimpleData>
+		<SimpleData name="ORIG_FID">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3390543981612,43.7094332400555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DOWNSVIEW DELLS PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4305526</SimpleData>
+		<SimpleData name="GEO_ID">293.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">293</SimpleData>
+		<SimpleData name="LCODE_NAME">293</SimpleData>
+		<SimpleData name="Area">748875</SimpleData>
+		<SimpleData name="POLY_AREA">748875.14298999996</SimpleData>
+		<SimpleData name="AREA_GEO">749204.91074399999</SimpleData>
+		<SimpleData name="CENTROID_X">620930.48014400003</SimpleData>
+		<SimpleData name="CENTROID_Y">4843713.37315000035</SimpleData>
+		<SimpleData name="ORIG_FID">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4982874374667,43.7365941792446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BLUFFER'S PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4305538</SimpleData>
+		<SimpleData name="GEO_ID">117.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">117</SimpleData>
+		<SimpleData name="LCODE_NAME">117</SimpleData>
+		<SimpleData name="Area">766888</SimpleData>
+		<SimpleData name="POLY_AREA">766887.85668199998</SimpleData>
+		<SimpleData name="AREA_GEO">767119.17561599996</SimpleData>
+		<SimpleData name="CENTROID_X">642327.17807699996</SimpleData>
+		<SimpleData name="CENTROID_Y">4841108.58664000034</SimpleData>
+		<SimpleData name="ORIG_FID">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2333881017176,43.7093530252926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PINE HILLS CEMETERY</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="GEO_ID">37.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="LCODE_NAME">4036</SimpleData>
+		<SimpleData name="Area">658990</SimpleData>
+		<SimpleData name="POLY_AREA">658990.27184199996</SimpleData>
+		<SimpleData name="AREA_GEO">659204.48262300005</SimpleData>
+		<SimpleData name="CENTROID_X">639535.60028899997</SimpleData>
+		<SimpleData name="CENTROID_Y">4842121.80676999968</SimpleData>
+		<SimpleData name="ORIG_FID">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2677595920157,43.7190020413349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TORONTO ZOO</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">1518</SimpleData>
+		<SimpleData name="GEO_ID">1518.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="LCODE_NAME">2027</SimpleData>
+		<SimpleData name="Area">2060629</SimpleData>
+		<SimpleData name="POLY_AREA">2060629.15687000006</SimpleData>
+		<SimpleData name="AREA_GEO">2061201.83578000008</SimpleData>
+		<SimpleData name="CENTROID_X">645779.10977600003</SimpleData>
+		<SimpleData name="CENTROID_Y">4853205.17281999998</SimpleData>
+		<SimpleData name="ORIG_FID">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.1872772570582,43.8175446631973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CEDARBRAE GOLF AND COUNTRY CLUB</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">908</SimpleData>
+		<SimpleData name="GEO_ID">908.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="LCODE_NAME">5001</SimpleData>
+		<SimpleData name="Area">644214</SimpleData>
+		<SimpleData name="POLY_AREA">644213.55696500000</SimpleData>
+		<SimpleData name="AREA_GEO">644406.01316900004</SimpleData>
+		<SimpleData name="CENTROID_X">642698.23896300001</SimpleData>
+		<SimpleData name="CENTROID_Y">4855338.66261000000</SimpleData>
+		<SimpleData name="ORIG_FID">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2249996358497,43.8373460322621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ROWNTREE MILLS PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#TorontoP">
+		<SimpleData name="OBJECTID">4305640</SimpleData>
+		<SimpleData name="GEO_ID">903.00000000000</SimpleData>
+		<SimpleData name="TYPE_DESC">CGSP</SimpleData>
+		<SimpleData name="SCODE_NAME">903</SimpleData>
+		<SimpleData name="LCODE_NAME">903</SimpleData>
+		<SimpleData name="Area">920630</SimpleData>
+		<SimpleData name="POLY_AREA">920630.24043500004</SimpleData>
+		<SimpleData name="AREA_GEO">921070.51344200002</SimpleData>
+		<SimpleData name="CENTROID_X">614473.12453399994</SimpleData>
+		<SimpleData name="CENTROID_Y">4845416.34900000039</SimpleData>
+		<SimpleData name="ORIG_FID">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.5780868715132,43.7529482016896</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
